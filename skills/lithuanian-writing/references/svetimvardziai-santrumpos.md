@@ -28,6 +28,13 @@ Nelotyniško raidyno kalbos (rusų, graikų…) **perrašomos lotyniškais rašm
 ### Bendra
 - Tikriniai vardai rašomi **iš didžiosios**, simboliniai pavadinimai **lietuviškose kabutėse „…“** išlaikant
   autentišką rašybą: *„Windows“, „Le Monde“.*
+  - **Kabutes gali atstoti kitas šriftas** (pasvirasis, pusjuodis): *Decobox*, **Decobox** (VLKK
+    konsultacija 10401; maisto gaminių pavadinimų rekomendacija). Neformaliame tekste pavadinimas be
+    kabučių yra autoriaus stiliaus pasirinkimas. Taisant tekstą, kabučių nebuvimo nežymėk kaip klaidos,
+    nebent tekstas oficialus.
+- **Plačiai vartojami pavadinimai adaptuojami** ir tampa bendriniais žodžiais: rašomi **mažąja raide, be
+  kabučių, linksniuojami**: *audi, mersedesas, boingas; feisbukas, tviteris, jutubas, instagramas,
+  mesendžeris, skaipas; gūglas* (ne *guglas, gūglis, guglė*) (VLKK konsultacijos 10401, 12761, 12624).
 - Kitų kalbų **bendriniai žodžiai/citatos** išskiriami **pasviruoju šriftu** (rečiau kabutėmis):
   *de facto, à la carte* (santrumpų išimtis: *etc., P. S.* rašomos tiesiu šriftu).
 - Tiesioginės reikšmės pavadinimai dažniausiai **verčiami** (skliaustuose originalas): *partija „Vieningoji
