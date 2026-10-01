@@ -19,13 +19,11 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 
 2. **Jungiamosios balsės gali nebūti.** Dėmenys gali būti sujungti be balsės (aštuonmetis, dūmtraukis, metraštis, miegmaišis, pusseserė, skerspjūvis).
 
-3. **Po minkštųjų priebalsių vietoj `ė` rašoma `ia`.** Po minkštųjų priebalsių (k, g, š, ž, č, dz, dž) tarp dėmenų rašoma **(i)a**, o ne `ė` (angliakasys, kraujagyslė, piliakalnis, stačiakampis, žaliavalgis, trečiadienis).
-
-   Išimtis: bendrinėje kalboje nebūtina rašyti `ė`: leidžiami variantai ir su `a` be `i` (pvz., `baltakaktis` leidžiama vietoj `baltkaktis`).
+3. **Jungiamosios balsės `e` nėra.** Po minkštųjų priebalsių tarp dėmenų rašoma **(i)a**, ne ~~e~~ (angliakasys, kraujagyslė, piliakalnis, stačiakampis, žaliavalgis, trečiadienis, žiniasklaida, ~~treč**e**dienis~~). (§4.1 kom. 1*)
 
 4. **Jungiamoji balsė dažnai sutampa su pirmojo dėmens kamiengalio balse, bet ne visada.** Jei skiriasi, rašoma pagal tarimą (darbalaukis vs. darbymetis; galvospūdis vs. galvūgalis; nosikaulis vs. nosiaryklė).
 
-5. **Galimi lygiagretūs variantai su jungiamąja balse ir be jos.** Leidžiami abu variantai (baltkaktis ir baltakaktis, devynženklis ir devyniaženklis, vienragis ir vienaragis, voratinklis ir vortinklis).
+5. **Galimi lygiagretūs variantai su jungiamąja balse ir be jos.** Leidžiami abu variantai (baltkaktis ir baltakaktis, devynženklis ir devyniaženklis, vienragis ir vienaragis, voratinklis ir vortinklis). Galimi ir variantai su skirtingais kamiengaliais ar jungiamosiomis balsėmis: kietmedis (kiečiamedis, kietamedis), dalgikotis (dalgiakotis, dalgkotis). (§4.1 kom. 3*)
 
 6. **`pusiau` kartu ar atskirai.** Kaip pirmasis dėmuo sudurtiniame žodyje rašomas **kartu** (pusiaudienis, pusiaunaktis, pusiausvyra). Kaip prieveiksmis rašomas **atskirai** (pusiau juodas, pusiau miegodamas, pusiau proza).
 
@@ -49,6 +47,8 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 - **Dviskaitos formos rašomos kartu**, jei jos primena dviejų žodžių samplaiką (pvz.: *abudu*, *abidvi*, *judu*, *mudu*, *tiedu*).
 - **Samplaikų dėmenys rašomi atskirai**, jei sudaryti iš nesutrumpėjusių įvardžių, prieveiksmių ar dalelyčių (pvz.: *bet kas*, *bet koks*, *kas nors*, *tik tas*, *šiek tiek*, *vis tiek*).
 - **Išimtis:** suaugusios dalelytės/įvardžiai su bendra reikšme rašomi kartu (pvz.: *dėlto* „tačiau“, *tiktai* „tik“, *užtai* „todėl“, *tuojau* „greit, netrukus“).
+- **Bet atskirai**, kai prielinksnis ir įvardis *tas* vartojami savo reikšme: *Žlugo **dėl to**, kad…*; *Padėkojo **už tai**, kad…* (§5.1.3 kom. 2*).
+- *Dėlto* „tačiau“ dažniausiai eina su atskirai rašoma dalelyte: ***vis dėlto*** (kom. 3*). *Kol kas* rašoma atskirai; variantui *kolei kas* pirmenybė neteikiama (kom. 4*).
 
 ## 5.2. Neiginio *ne* rašymas
 
@@ -76,6 +76,7 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 - **Kartu** su veiksmažodžiais, būdvardžiais ir prieveiksmiais (pvz.: *nebegalėti*, *nebesuprasti*, *nebegerai*, *tebešnekėti*, *tebegražus*).
 - **Atskirai** nuo daiktavardžių, įvardžių, skaitvardžių (pvz.: *nebe poilsis*, *nebe laikas*, *nebe tas*, *nebe pirmas*).
 - **Atskirai** prieštaraujant (pvz.: *Nebe skaito, o rašo*).
+- Su *būti* ir *eiti* formomis, prasidedančiomis balse, rašoma *nesu, nėra, neina, nebeiti, tebėra* (žr. §2.2.4).
 
 ## 5.2.8. Kitų dalelyčių rašymas
 
@@ -126,4 +127,7 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 - **Dz, dž skaidomi**, kai *d* priklauso vienam, o *z/ž* kitam dėmeniui (pvz.: *did-zuikis*, *juod-žalis*, *med-žirklės*).
 - **Santrumpos neskaidomos** ir nekeliamos (pvz.: *LR CK*, *ESBO*, *NATO*, *UNESCO*).
 - **Skyrybos ženklai nekeliami** (išskyrus uždaromąsias kabutes ir uždaromąjį skliaustą).
-- **Brūkšnys į kitą eilutę nekeliamas** (patartina rinkti tarpą).
+- **Brūkšnys į kitą eilutę rišliame tekste nekeliamas** (patartina rinkti jungiamąjį tarpą); eilutė brūkšniu pradedama tik perteikiant tiesioginę kalbą.
+- **Sudurtiniai ir priešdėliniai žodžiai** keliami skiemenimis arba pagal dalis (*pe-lė-da* / *pel-ėda*). Tik pagal dalis, kai susiduria dvi vienodos priebalsės: *pus-seserė, per-rašyti, už-žėlė*. Antriniai dvigarsiai neskaidomi: *de-vyn-dar-bis* (§6.5 kom.).
+- **Brūkšneliu sujungti žodžiai:** brūkšnelis gali būti ir eilutės pabaigoje, ir kitos pradžioje: *sekretorė- / -referentė* (§6.6 kom. 3*).
+- **Dideli skaičiai skaitmenų grupėmis ir datos** į eilutes neskaidomi (rinkti jungiamąjį tarpą): *15 855 885, 2020-02-02* (§6.6 kom. 4*).
