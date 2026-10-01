@@ -1,6 +1,9 @@
 ---
 name: lithuanian-writing
 description: |
+  Taisyklinga ir natūrali lietuvių kalba: rašymas, vertimas į lietuvių kalbą ir teksto taisymas –
+  rašyba, skyryba (kableliai), didžiosios raidės, skaičių, datų ir kabučių rašymas, svetimvardžiai,
+  dažnos klaidos ir kalkės, kirčiavimas (tik paprašius).
   Write correct, natural Lithuanian and check Lithuanian prose for errors. Use whenever writing,
   editing, translating into, or proofreading Lithuanian text — orthography (rašyba), comma placement
   and sentence punctuation (skyryba), capitalisation, number/date/quote formatting, foreign names,
@@ -10,79 +13,82 @@ description: |
   also remove AI-writing tells.
 license: MIT
 metadata:
-  version: "1.1.0"
+  version: "1.2.0"
   sources: "Lietuvių kalbos rašyba (VLKK, 2022); Lietuvių kalbos skyrybos taisyklės (VLKK 2019, N-8 (178)); VLKK didžiųjų kalbos klaidų sąrašas; VDU tartis.vdu.lt"
 ---
 
-# Lithuanian writing: correctness + natural style
+# Lietuvių kalba: taisyklingai ir natūraliai
 
-Write Lithuanian that a careful native editor would pass. This skill is an **index**: the rules live in
-`references/`, and you load only the file the current text needs — do not pull them all into context.
+Rašyk taip, kad tekstą be pataisų priimtų kruopštus lietuvių kalbos redaktorius. Šis įgūdis yra
+**rodyklė**: taisyklės surašytos `references/` aplanke, o įkeliamas tik tas failas, kurio reikia
+konkrečiam tekstui. Visų failų iš karto neįkelk.
 
-## How to use
+## Kaip naudoti
 
-1. **Writing/translating into Lithuanian.** Draft normally, then run the relevant checks below. If the
-   text was translated from English, `references/daznos-klaidos.md` and `references/humanizavimas-lt.md`
-   matter most — that is where translation calques and English word order show up.
-2. **Proofreading Lithuanian.** Identify what kinds of tokens the text contains (proper names? numbers
-   and dates? quotes? compound words?) and load only the matching reference(s).
-3. **Cite the rule when correcting.** Say which rule applies (e.g. "nosinė, nes kilmininko galūnė") so the
-   correction is checkable, not a guess.
-4. **Kirčiavimas is a correctness rule, not a default.** Know the rules (`references/kirciavimas.md`) but
-   do **not** add stress marks to normal text unless the user asks (e.g. for TTS input or teaching).
+1. **Rašant ar verčiant į lietuvių kalbą.** Parašyk juodraštį, tada patikrink pagal toliau pateiktus
+   punktus. Jei tekstas verstas iš anglų kalbos, svarbiausi failai – `references/daznos-klaidos.md` ir
+   `references/humanizavimas-lt.md`: būtent ten išryškėja vertimo kalkės ir angliška žodžių tvarka.
+2. **Taisant lietuvišką tekstą.** Nustatyk, kas tekste yra (tikriniai vardai, skaičiai ir datos,
+   kabutės, sudurtiniai žodžiai, sudėtiniai sakiniai), ir įkelk tik atitinkamus failus.
+3. **Taisydamas nurodyk taisyklę.** Pasakyk, kuri taisyklė taikoma (pvz., „nosinė, nes kilmininko
+   galūnė“), kad pataisą būtų galima patikrinti, o ne priimti aklai.
+4. **Kirčiavimas – tik paprašius.** Taisykles žinok (`references/kirciavimas.md`), bet įprasto teksto
+   **nekirčiuok**, nebent naudotojas to prašo (pvz., kalbos sintezei ar mokymui).
 
-## Which reference to load
+## Kurį failą įkelti
 
-| If the text involves…                                             | Load |
-|-------------------------------------------------------------------|------|
-| Spelling inside words: i/y, u/ū, e/ia, nosinės ą ę į ų, consonants (assimilation, j, softness) | `references/rasyba-balsiai-priebalsiai.md` |
-| Compound words, together-or-apart, the negative *ne-*, particles  | `references/kartu-atskirai.md` |
-| Capital vs. lowercase, proper names, org/place/personal names     | `references/didziosios-raides.md` |
-| Dashes, hyphen, quotes „…", brackets, numbers, dates, time, money | `references/skyrybos-zenklai.md` |
-| Commas and sentence punctuation: clauses, participles, asides, address, lists, direct speech | `references/skyryba-kableliai.md` |
-| Foreign names, abbreviations, acronyms                            | `references/svetimvardziai-santrumpos.md` |
-| Common mistakes, calques, anglicisms, wrong cases/prepositions    | `references/daznos-klaidos.md` |
-| Making translated/AI Lithuanian sound native                      | `references/humanizavimas-lt.md` |
-| Stress marks / accentuation, only on request                      | `references/kirciavimas.md` |
+| Jei tekste yra…                                                   | Įkelk |
+|-------------------------------------------------------------------|-------|
+| Rašyba žodžio viduje: i / y, u / ū, e / ia, nosinės ą ę į ų, priebalsiai (supanašėjimas, j, minkštumas) | `references/rasyba-balsiai-priebalsiai.md` |
+| Sudurtiniai žodžiai, rašymas kartu ar atskirai, neiginys *ne-*, dalelytės | `references/kartu-atskirai.md` |
+| Didžiosios ir mažosios raidės, asmenvardžiai, vietovardžiai, organizacijų pavadinimai | `references/didziosios-raides.md` |
+| Brūkšnys, brūkšnelis, kabutės „…“, skliaustai, skaičiai, datos, laikas, pinigai | `references/skyrybos-zenklai.md` |
+| Kableliai ir sakinio skyryba: šalutiniai sakiniai, dalyvinės aplinkybės, įterpiniai, kreipiniai, vienarūšės dalys, tiesioginė kalba | `references/skyryba-kableliai.md` |
+| Svetimvardžiai, santrumpos, akronimai                             | `references/svetimvardziai-santrumpos.md` |
+| Dažnos klaidos, kalkės, svetimybės, netinkami linksniai ir prielinksniai | `references/daznos-klaidos.md` |
+| Verstinis ar dirbtinio intelekto tekstas, kurį reikia padaryti natūralų | `references/humanizavimas-lt.md` |
+| Kirčiavimas (tik paprašius)                                       | `references/kirciavimas.md` |
 
-## The six things AI/translated Lithuanian gets wrong most
+## Šešios dažniausios verstinio ir DI teksto klaidos
 
-Check these first — they cover the bulk of real errors (details in the references):
+Pirmiausia tikrink šias – jos sudaro didžiąją dalį tikrų klaidų (išsamiau – failuose):
 
-1. **Straight quotes and wrong dashes.** Lithuanian uses „…" (not "…"), and – (brūkšnys) with spaces,
-   not the English em-dash. → `skyrybos-zenklai.md`
-2. **English capitalisation.** Lithuanian lowercases months, weekdays, nationalities/languages, and most
-   words inside titles and job names. *sausio, pirmadienį, lietuvis, anglų kalba.* → `didziosios-raides.md`
-3. **Calques.** *įtakoti* → *veikti / lemti / daryti įtaką*; *apjungti* → *sujungti / apjungti(=aprėpti)*;
-   *pilnai* → *visiškai*; *sekantis* → *kitas / tolesnis*. → `daznos-klaidos.md`
-4. **Number/date format.** Decimal comma (3,5 not 3.5), space thousands (1 000), *2022 m. sausio 5 d.*,
-   14.30 val. → `skyrybos-zenklai.md`
-5. **English word order and over-nominalisation.** Bureaucratic passive and noun stacks; prefer active
-   verbs. → `humanizavimas-lt.md`
-6. **Commas.** Subordinate clause not closed by a second comma (*Vyras, kuris sėdėjo, pradėjo ploti*);
-   English Oxford comma before a single *ir/ar*; comma inside quantity comparisons (*daugiau nei 10*).
-   Opposite error: "fixing" optional commas (participle phrases, modal words). → `skyryba-kableliai.md`
+1. **Tiesios kabutės ir netinkami brūkšniai.** Lietuviškai rašoma „…“, ne "…", ir brūkšnys – su
+   tarpais, ne angliškas ilgasis brūkšnys be tarpų. → `skyrybos-zenklai.md`
+2. **Angliškos didžiosios raidės.** Mėnesiai, savaitės dienos, tautybės, kalbos, dauguma pavadinimų ir
+   pareigybių žodžių rašomi mažąja raide: *sausio, pirmadienį, lietuvis, anglų kalba*. → `didziosios-raides.md`
+3. **Kalkės.** *įtakoti* → *veikti, lemti, daryti įtaką*; *apjungti* → *sujungti* (*apjungti* tik
+   reikšme „aprėpti“); *pilnai* → *visiškai*; *sekantis* → *kitas, tolesnis*. → `daznos-klaidos.md`
+4. **Skaičiai ir datos.** Dešimtainis kablelis (3,5, ne 3.5), tūkstančiai skiriami tarpu (1 000),
+   *2022 m. sausio 5 d.*, *14.30 val.* → `skyrybos-zenklai.md`
+5. **Angliška žodžių tvarka ir daiktavardžių grandinės.** Kanceliarinis neveikiamasis būdas ir
+   daiktavardžių virtinės; rinkis veikiamąsias veiksmažodžių formas. → `humanizavimas-lt.md`
+6. **Kableliai.** Šalutinis sakinys neuždarytas antruoju kableliu (*Vyras, kuris sėdėjo, pradėjo ploti*);
+   angliškas kablelis prieš vienintelį *ir* ar *ar*; kablelis kiekio palyginime (*daugiau nei 10*).
+   Priešinga klaida – „taisomi“ pasirenkami kableliai (dalyvinės aplinkybės, modaliniai žodžiai).
+   → `skyryba-kableliai.md`
 
-## Scope
+## Apimtis
 
-This skill covers **rašyba** (orthography), **skyryba** (commas and sentence punctuation), graphic signs,
-capitalisation, common lexical/grammar errors, and basic **kirčiavimas**.
+Įgūdis apima **rašybą**, **skyrybą** (kablelius ir kitus sakinio skyrybos ženklus), grafinius ženklus,
+didžiąsias raides, dažnas leksikos ir gramatikos klaidas bei pagrindines **kirčiavimo** taisykles.
 
-**Optional punctuation is not an error.** The 2019 rules mark many commas as optional — `(,)` — and state
-that any permitted variant is correct. When proofreading, correct only mandatory cases; offer optional
-ones as style suggestions at most. `references/skyryba-kableliai.md` marks each case ✔/◐/✘.
+**Pasirenkamas skyrybos ženklas nėra klaida.** 2019 m. taisyklėse daug kablelių pažymėti kaip
+pasirenkami – `(,)` – ir nurodyta, kad bet kuris leidžiamas variantas yra taisyklingas. Taisydamas
+taisyk tik privalomus atvejus, o pasirenkamus daugių daugiausia siūlyk kaip stiliaus pastabą.
+Faile `references/skyryba-kableliai.md` kiekvienas atvejis pažymėtas ✔ / ◐ / ✘.
 
-## Full official texts (`sources/`)
+## Visi oficialūs tekstai (`sources/`)
 
-The `references/` files are condensed. When a case is not settled there, grep the full official text
-instead of guessing:
+`references/` failuose taisyklės sutrauktos. Jei atvejo ten neišsprendi, ieškok visame oficialiame
+tekste, o ne spėliok:
 
-| File | What it is |
-|------|------------|
-| `sources/skyrybos-taisykles-2019.md` | VLKK punctuation rules, full text with all examples. Rules start with their number: `grep -n -A3 "^11\.9\." …` |
-| `sources/klaidu-sarasas/*.md` | VLKK list of major language errors, 9 files by category (vocabulary, word formation, cases, prepositions, forms, syntax, word order, pronunciation). Format: error → correction (`=`). `grep -i "<word>" sources/klaidu-sarasas/*.md` |
+| Failas | Kas tai |
+|--------|---------|
+| `sources/skyrybos-taisykles-2019.md` | VLKK skyrybos taisyklės, visas tekstas su visais pavyzdžiais. Punktai prasideda numeriu: `grep -n -A3 "^11\.9\." …` |
+| `sources/klaidu-sarasas/*.md` | VLKK didžiųjų kalbos klaidų sąrašas, 9 failai pagal sritis (žodynas, žodžių daryba, linksniai, prielinksniai, formos, sintaksė, žodžių tvarka, tartis). Forma: klaida → taisymas (`=`). `grep -i "žodis" sources/klaidu-sarasas/*.md` |
 
-Source of truth for orthography is *Lietuvių kalbos rašyba* (VLKK, 2022); for punctuation, the 2019 VLKK
-resolution plus A. Drukteinis's commentary (2020). Those books are not bundled (copyright); links are in
-the repo's `SOURCES.md`. For a single word's spelling/meaning, the VLKK consultation bank and the DLKŽ
-dictionary (ekalba.lt) are the authorities.
+Rašybos norma – *Lietuvių kalbos rašyba* (VLKK, 2022); skyrybos – 2019 m. VLKK nutarimas ir A. Drukteinio
+komentarai (2020). Šios knygos į rinkinį neįtrauktos dėl autorių teisių, nuorodos į jas – saugyklos
+faile `SOURCES.md`. Dėl atskiro žodžio rašybos ar reikšmės patikimiausi šaltiniai – VLKK konsultacijų
+bankas ir *Dabartinės lietuvių kalbos žodynas* (ekalba.lt).

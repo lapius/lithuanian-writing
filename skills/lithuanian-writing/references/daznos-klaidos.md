@@ -1,11 +1,11 @@
 # Dažnos klaidos: kalkės, svetimybės, netaisyklingos konstrukcijos
 
-Klaida → taisyklinga. These are the errors that survive into otherwise-good Lithuanian, especially in
-**text translated from English/Russian** or written by an LLM. The old official *Didžiųjų kalbos klaidų
-sąrašas* stopped being legally enforced on 2019-01-31, but every item below is still a real error a good
-editor removes — losing the fine no longer applies, the wrongness does.
+Klaida → taisyklinga. Tai klaidos, kurios išlieka net šiaip gerame tekste, ypač **verstame iš anglų ar
+rusų kalbos** arba parašytame kalbos modelio. Oficialus *Didžiųjų kalbos klaidų sąrašas* nuo 2019 m.
+sausio 31 d. nebetaikomas baudoms skirti, bet kiekvieną toliau nurodytą klaidą geras redaktorius vis tiek
+taiso: baudų nebėra, o klaida lieka klaida.
 
-## Leksika — kalkės ir svetimybės (word choice)
+## Leksika – kalkės ir svetimybės
 
 | Klaida | Taisyklinga |
 |--------|-------------|
@@ -25,9 +25,9 @@ editor removes — losing the fine no longer applies, the wrongness does.
 | atatinkamai | **atitinkamai** (rašybos klaida) |
 | kokybiškas darbas | dažnai geriau **geros kokybės, kruopštus** |
 
-`sąlygoti` in the sense "to cause/determine" is disputed — prefer **lemti, sukelti, nulemti**.
+*Sąlygoti* reikšme „lemti, sukelti“ vertinamas nevienodai – geriau **lemti, sukelti, nulemti**.
 
-## Linksniai ir prielinksniai (cases & prepositions)
+## Linksniai ir prielinksniai
 
 | Klaida | Taisyklinga |
 |--------|-------------|
@@ -63,10 +63,10 @@ editor removes — losing the fine no longer applies, the wrongness does.
 - **Būdvardžio vieta.** Kokybę žymintis būdvardis eina **prieš** daiktavardį: ~~silkė rūkyta~~ → **rūkyta
   silkė**, ~~sriuba grybų~~ → **grybų sriuba**.
 - **Pasyvo perteklius.** Verstinis lietuviškas tekstas linksta į beasmenes/pasyviąsias konstrukcijas
-  („buvo nuspręsta, yra atliekama"). Rink **veiksmažodinę, aktyviąją** formą: „nusprendėme", „atliekame".
-- **Nominalizacijos.** Nevynk daiktavardžių virtinės („sprendimo priėmimo proceso optimizavimas") — versk
-  veiksmažodžiu („kaip greičiau priimti sprendimus").
-- **Perteklinis „tai".** „Šis klausimas — tai svarbus dalykas" → „Šis klausimas svarbus".
+  („buvo nuspręsta, yra atliekama“). Rink **veiksmažodinę, aktyviąją** formą: „nusprendėme“, „atliekame“.
+- **Nominalizacijos.** Nevynk daiktavardžių virtinės („sprendimo priėmimo proceso optimizavimas“) – versk
+  veiksmažodžiu („kaip greičiau priimti sprendimus“).
+- **Perteklinis „tai“.** „Šis klausimas – tai svarbus dalykas“ → „Šis klausimas svarbus“.
 
 ## Visas oficialus sąrašas
 
@@ -77,5 +77,5 @@ pastaba, taip ir pažymėk.
 
 ## Kaip taisyti
 
-Nurodyk taisyklę, ne vien žodį: „*įtakoja* → *lemia* (kalkė iš angl. *influence*)". Jei nesi tikras, ar
+Nurodyk taisyklę, ne vien žodį: „*įtakoja* → *lemia* (kalkė iš angl. *influence*)“. Jei nesi tikras, ar
 konstrukcija tikrai klaida (pvz. *sąlygoti*), pažymėk kaip abejotiną, o ne taisyk tyliai.

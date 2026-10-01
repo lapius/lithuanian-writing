@@ -1,13 +1,13 @@
-# Skyryba: kableliai ir kiti ženklai sakinyje (comma placement)
+# Skyryba: kableliai ir kiti ženklai sakinyje
 
 Iš *Lietuvių kalbos skyrybos taisyklės* (VLKK nutarimas 2019-11-07 Nr. N-8 (178), suvestinė redakcija
 su 2019-12-19 Nr. N-10 (180) pataisomis). Numeriai **§3.1, §11.9…** = to nutarimo punktai; visas tekstas su
-visais pavyzdžiais yra `sources/skyrybos-taisykles-2019.md` — kai abejoji, `grep` ten pagal punkto numerį.
+visais pavyzdžiais yra `sources/skyrybos-taisykles-2019.md` – kai abejoji, `grep` ten pagal punkto numerį.
 
 Platesni komentarai ir patarimai, kurį variantą rinktis: A. Drukteinis, *Lietuvių kalbos skyryba.
-Taisyklės, komentarai, patarimai* (2020) — knyga autorių teisių saugoma, tik nuoroda `SOURCES.md`.
+Taisyklės, komentarai, patarimai* (2020) – knyga autorių teisių saugoma, tik nuoroda `SOURCES.md`.
 
-## Svarbiausia taisant: privaloma vs. pasirenkama
+## Svarbiausia taisant: privaloma ar pasirenkama
 
 Taisyklėse **(,)** reiškia *pasirenkamą* ženklą: rašyti galima, nerašyti irgi galima.
 **Bet kuris pasirenkamas variantas nėra klaida (§1).** Todėl:
@@ -23,7 +23,7 @@ Taisyklėse **(,)** reiškia *pasirenkamą* ženklą: rašyti galima, nerašyti 
 
 ## 1. Šalutiniai dėmenys – prijungiamieji sakiniai (§11)
 
-The single largest source of errors. Subordinate clause is set off **on both sides**.
+Daugiausia klaidų būna čia. Šalutinis dėmuo išskiriamas **iš abiejų pusių**.
 
 - ✔ **Šalutinis dėmuo išskiriamas kableliais iš abiejų pusių (§11.1).** Jungiamieji žodžiai: *kad, jog,
   kuris, koks, kas, kur, kada, kai, kol, nes, kadangi, jei(gu), nors, lyg, tarsi, kaip, negu/nei, užuot…*
@@ -51,7 +51,7 @@ The single largest source of errors. Subordinate clause is set off **on both sid
   vienarūšes dalis – ✘: *ar tiks spektakliui ar koncertui*.
 - ◐ **Porinis *nors (ir)… bet*** su sakinio dalimi (§11.14): *Rodiklis(,) nors ir nesparčiai, bet kilo.*
 
-### Ką dažniausiai klaidingai skiria (✘)
+### Dažnos painiavos
 
 - ✔ **Rodomasis žodis + *kad*:** *tam, kad*; *dėl to, kad*; *nepaisant to, kad*; *taip, kad* – kablelis
   eina **prieš *kad***, nes rodomasis žodis priklauso pagrindiniam dėmeniui. ~~tam kad~~, ~~dėl to kad~~.
@@ -76,7 +76,7 @@ The single largest source of errors. Subordinate clause is set off **on both sid
   - išvardijimas, gretinimas, priešprieša → **kablelis / kabliataškis**: *Dienos trumpos, vakarai ilgi.*
   - sąlyga, laikas, pasekmė, netikėtumas → **brūkšnys**: *Atsipūs arkliai – vėl važiuosime.*
   - aiškinimas, priežastis → **dvitaškis** (ar brūkšnys): *Tu kalbi teisingai: …*
-  - Anglų tekstui būdingas *comma splice* (du sakiniai per kablelį be ryšio) lietuviškai dažniausiai yra
+  - Angliškam tekstui būdingas dviejų sakinių sujungimas vien kableliu lietuviškai dažniausiai yra
     gerai, jei tai išvardijimas; jei priežastis/išvada – geriau dvitaškis ar brūkšnys.
 - ✔ *Taip, ne, gerai, nieko, ką* sakinio pradžioje kaip atsakymas (§13.2): ***Ne,** aš neateisiu.*
 
@@ -86,7 +86,7 @@ The single largest source of errors. Subordinate clause is set off **on both sid
 
 - ✔ Be jungtukų – kableliai: *Meilė, širdgėla, neviltis geso* (§3.1).
 - ✘ **Su vienu *ir, bei, nei, ar, arba*** – kablelio nėra (§3.5 pastaba): *taisydavo **ir** siuvo*.
-  ~~obuoliai, kriaušės, ir slyvos~~ (Oxford comma lietuviškai – klaida).
+  ~~obuoliai, kriaušės, ir slyvos~~ (angliškas kablelis prieš paskutinį *ir* – lietuviškai klaida).
 - ✔ Su ***o, bet, tačiau, tik, todėl, tad, taigi*** – kablelis prieš (§3.5a): *viduje**,** o ne išorėje*.
 - ✔ **Poriniai** *ne tik… bet ir; nors… bet; jei ne… tai; ne tiek… kiek; kaip… taip ir* – kablelis prieš
   antrąją dalį (§3.5b): *ne tik rytais**,** bet ir vakarais*.
@@ -107,11 +107,11 @@ The single largest source of errors. Subordinate clause is set off **on both sid
 
 ## 4. Dalyvinės, pusdalyvinės, padalyvinės aplinkybės (§5) – ◐
 
-Lithuanian participle phrases are **optional** commas — the most over-corrected area.
+Kableliai prie dalyvinių aplinkybių **pasirenkami** – tai dažniausiai be reikalo „taisoma“ sritis.
 
 - ◐ **Išplėsta** aplinkybė (dalyvis + bent vienas priklausomas žodis) ar dvi neišplėstos – **galima**
   išskirti kableliais (§5.1):
-  - *Išėjusi iš mokyklos(,) direktorė stabtelėjo.* — abu variantai teisingi.
+  - *Išėjusi iš mokyklos(,) direktorė stabtelėjo.* – abu variantai teisingi.
   - *Lyjant ar sningant(,) nemalonu keliauti.*
 - ✘ **Neišplėstas pavienis** dalyvis/padalyvis neskiriamas: *Grįžęs pavalgė.* *Kalbėdamas lankstėsi.*
 - ✔ **Jei išskiri – išskirk iš abiejų pusių:** *Liucė dengė stalą, bet(,) išgirdusi svečią(,) išbėgo* –
@@ -173,7 +173,7 @@ Lithuanian participle phrases are **optional** commas — the most over-correcte
   skiriamas įterpinys su *o* kartu: *…trečdalį, o tikriau, pusę lėšų.*
 - **Įspraudai (§8.3)** – skliaustai, brūkšniai arba kableliai: *Ore – sunku patikėti – mirgėjo peteliškės.*
 - ✔ **Kreipinys** išskiriamas abipus (§9.1): *Bus**, mama,** kitoks gyvenimas.* *Atleiskite**, ponia
-  Liucija,** kad…* — vardininkas vietoj šauksmininko kreipinyje = gramatikos klaida (*Birutė* → *Birute*).
+  Liucija,** kad…* – vardininkas vietoj šauksmininko kreipinyje = gramatikos klaida (*Birutė* → *Birute*).
 - ◐ *Jūs(,) pilieti, pats kaltas* (§9.3).
 - ◐ Jaustukai *ak, ei, oi* (§8.4): *Ei(,) kaimyne…*
 - **Praleidimas (§10)** – brūkšnys vietoj praleisto *yra* ◐: *Jis (–) baisus žmogus.* *Tai (–) mūsų rūpestis.*
@@ -197,7 +197,7 @@ Detalės (kabutės „…“, brūkšnys, ne em-dash) – `skyrybos-zenklai.md`.
 
 ---
 
-## Taisymo eiga (checklist)
+## Taisymo eiga
 
 1. Rask visus jungtukus ir jungiamuosius žodžius (*kad, kuris, kai, nes, jei, nors, kaip, nei*). Ar
    šalutinis dėmuo **uždarytas** antruoju kableliu, jei sakinys tęsiasi?

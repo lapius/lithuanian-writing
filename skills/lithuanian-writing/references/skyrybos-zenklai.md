@@ -1,16 +1,16 @@
 # Grafiniai ženklai: brūkšnys, kabutės, skaičiai, datos, pinigai
 
-Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §11. **NB: this is orthographic punctuation (signs & formatting),
-not comma rules for complex sentences.** For comma placement see `skyryba-kableliai.md`.
+Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §11. **Pastaba: čia – rašybos ženklai ir formatas, ne
+kablelių taisyklės sudėtiniuose sakiniuose.** Kableliai – `skyryba-kableliai.md`.
 
-## Kritiniai skirtumai nuo anglų kalbos (fix these first)
+## Svarbiausi skirtumai nuo anglų kalbos (taisyk pirmiausia)
 
-- **Kabutės: „…"** (apatinės atidaromosios, viršutinės uždaromosios). NE angliškos "…" ar “…”. Kabutėse –
-  simboliniai pavadinimai: „Maxima", romanas „Altorių šešėly".
+- **Kabutės: „…“** (apatinės atidaromosios, viršutinės uždaromosios). NE angliškos "…" ar “…”. Kabutėse –
+  simboliniai pavadinimai: „Maxima“, romanas „Altorių šešėly“.
 - **Dešimtainė – kablelis:** 3,5 kg; 19,99 € (~~3.5~~).
 - **Tūkstančiai – tarpu (ne kableliu):** 10 000; 1 250 000 (~~10,000~~).
-- **Data:** „2022 m. sausio 5 d." arba 2022-01-05 (ISO). Mėnuo mažąja.
-- **Laikas:** 14.30 val. arba 14:30; „val." po skaičiaus.
+- **Data:** „2022 m. sausio 5 d.“ arba 2022-01-05 (ISO). Mėnuo mažąja.
+- **Laikas:** 14.30 val. arba 14:30; „val.“ po skaičiaus.
 - **Pinigai:** simbolis/kodas **po** sumos su tarpu: 25 € / 25 Eur / 25,00 EUR.
 - **Brūkšnys – (su tarpais)** jungia/atskiria; **brūkšnelis -** (be tarpų) – sudurtiniuose, dvejybiniuose:
   žalia-geltona, S. Nėries, 5-oji. Apimties brūkšnys be tarpų: 10–15, p. 20–35.
@@ -33,9 +33,9 @@ Brūkšnelis visada rašomas be tarpų abipus jo pusių.
 - Brūkšnelis nerašomas, jei pavardės dalis nesavarankiška ir nekaitoma: Put Putarleckis, Put Pututė.
 
 ### Oficialūs pavadinimai
-- Brūkšnelis rašomas tarp anksčiau savarankiškų buvusių vienetų juridinių subjektų pavadinimų: UAB „Švyturys-Utenos alus", UAB „Kalnapilio-Tauro grupė".
+- Brūkšnelis rašomas tarp anksčiau savarankiškų buvusių vienetų juridinių subjektų pavadinimų: UAB „Švyturys-Utenos alus“, UAB „Kalnapilio-Tauro grupė“.
 - Brūkšnelis rašomas tarp politinių partijų pavadinimų: Tėvynės sąjunga-Lietuvos krikščionys demokratai.
-- Brūkšnelis rašomas tarp sporto komandų pavadinimų: „Aistės-LSU", „Granitas-Karys", „Sūduva-Mantinga".
+- Brūkšnelis rašomas tarp sporto komandų pavadinimų: „Aistės-LSU“, „Granitas-Karys“, „Sūduva-Mantinga“.
 
 ### Geografiniai ir topografiniai pavadinimai
 - Brūkšnelis rašomas tarp pavadinimų, kurie pavadina vieną objektą: Alkos-Erlos pelkė, Labanoro-Pabradės giria, Garmišas-Partenkirchenas.
@@ -92,7 +92,7 @@ Apimties brūkšnys vartojamas objekto ar reiškinio apimčiai žymėti (skirtin
 - Apimties brūkšnys rašomas be tarpų tarp geografinių pavadinimų, žyminčių maršrutus: Santariškės–Oro uostas, Kaunas–Klaipėda, Vilnius–Ryga–Talinas.
 - Apimties brūkšnys rašomas be tarpų tarp kelių pavadinimų: Kelyje A10 Panevėžys–Pasvalys–Ryga.
 - Apimties brūkšnys rašomas be tarpų tarp žodžių, žyminčių laiko ribas: sausio–kovo mėnesiais.
-- Apimties brūkšnys rašomas be tarpų rašant keliakalbių žodynų pavadinimus: „Anglų–lietuvių kalbų žodynas".
+- Apimties brūkšnys rašomas be tarpų rašant keliakalbių žodynų pavadinimus: „Anglų–lietuvių kalbų žodynas“.
 - Apimties brūkšnys gali būti rašomas tarp veikėjų pavardžių, apibūdinančių vieną objektą: Minkowskio–Alkausko konstantos, Černio–Petrausko kometa, Molotovo–Ribentropo paktas.
 - Apimties brūkšnys gali būti rašomas tarp gyvenamųjų vietovių, sujungiamų į bendrą darinį: Vilniaus–Kauno dvimiestis, Kopenhagos–Malmės dvimiestis.
 - Apimties brūkšnys gali būti rašomas tarp veiksmažodinių daiktavardžių, reiškiančių dvišalius santykius: pirkimo–pardavimo sutartis, dokumentų perdavimo–priėmimo aktas.
@@ -154,25 +154,25 @@ Lietuvių kalbos rašyboje vartojamas pasvirasis dešininis brūkšnys (/), pasv
 
 ---
 
-## Kabutės „ "
+## Kabutės „ “
 
-- **Simboliniai pavadinimai** – choras „Gabija", sviestas „Saulutė"
-- **Įstaigų / organizacijų pavadinimai** – asociacija „Gyvastis", leidykla „Baltos lankos"
-- **Statiniai** – „Švyturio" arena, „Utenio" stadionas
-- **Apdovanojimai** – ordinas „Už nuopelnus Lietuvai"
-- **Renginiai** – paskaita „Elektronikos spindesys ir skurdas", festivalis „Kino pavasaris"
-- **Kūriniai** – simfoninė poema „Miške"
-- **Antraštiniai dokumentai** – dekretas „Dėl Lietuvos Respublikos pilietybės suteikimo"
-- **Spektakliai / filmai / laidos** – spektaklis „Kai mirę nubusim", laida „Kultūros savaitė"
-- **Leidiniai** – laikraštis „Literatūra ir menas", novelė „Užburtos jachtos"
-- **Žodžiai apie kuriuos kalbama** – portalo skaitytojai išrinko žodį „ačiū"
+- **Simboliniai pavadinimai** – choras „Gabija“, sviestas „Saulutė“
+- **Įstaigų / organizacijų pavadinimai** – asociacija „Gyvastis“, leidykla „Baltos lankos“
+- **Statiniai** – „Švyturio“ arena, „Utenio“ stadionas
+- **Apdovanojimai** – ordinas „Už nuopelnus Lietuvai“
+- **Renginiai** – paskaita „Elektronikos spindesys ir skurdas“, festivalis „Kino pavasaris“
+- **Kūriniai** – simfoninė poema „Miške“
+- **Antraštiniai dokumentai** – dekretas „Dėl Lietuvos Respublikos pilietybės suteikimo“
+- **Spektakliai / filmai / laidos** – spektaklis „Kai mirę nubusim“, laida „Kultūros savaitė“
+- **Leidiniai** – laikraštis „Literatūra ir menas“, novelė „Užburtos jachtos“
+- **Žodžiai apie kuriuos kalbama** – portalo skaitytojai išrinko žodį „ačiū“
 
-**Išimtis:** Pavadinimo pabaiga gali būti kita eilutė: festivalis „Skamba skamba kankliai / 2019".
+**Išimtis:** Pavadinimo pabaiga gali būti kita eilutė: festivalis „Skamba skamba kankliai / 2019“.
 
 ### Viengubos kabutės (ʻ ʼ) arba (‚ ');
 
 - **Kultūrinių augalų veislės** – slyvų veislė 'Vengrinė', obelų veislė 'Auksis'
-- **Žodžių reikšmės kalbotyros tekstuose** – žodis „gėlė" apibrėžiamas taip: 'gražiai žydintis augalas'
+- **Žodžių reikšmės kalbotyros tekstuose** – žodis „gėlė“ apibrėžiamas taip: 'gražiai žydintis augalas'
 
 ---
 

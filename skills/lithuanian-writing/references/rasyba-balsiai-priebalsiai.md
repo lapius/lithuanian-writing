@@ -1,15 +1,16 @@
-# Rašyba: balsiai ir priebalsiai (spelling inside words)
+# Rašyba: balsiai ir priebalsiai
 
-Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §2–§3. This is the core spelling reference: i/y, u/ū, e/(i)a,
-nosinės **ą ę į ų**, and consonants (assimilation, softness, j). For an LLM this is a **checklist** — most
-of it you already know; use it to resolve the hard cases (nosinė vs. plain vowel, i vs. y in endings).
+Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §2–§3. Pagrindinės rašybos taisyklės: i / y, u / ū, e / (i)a,
+nosinės **ą ę į ų** ir priebalsiai (supanašėjimas, minkštumas, j). Kalbos modeliui tai **kontrolinis
+sąrašas** – didžiąją dalį jau žinai; naudok jį keblesniems atvejams (nosinė ar paprastas balsis, i ar y
+galūnėse).
 
 **Greita orientacija:**
 - **y, ū** = ilgas įtemptas garsas (knyga, būrys); **i, u** = trumpas (bitė, butas).
-- **Nosinės ą ę į ų** rašomos ne dėl to, kad tariama „nosim", o dėl **kilmės/galūnės** (kilmininkas, būsimasis
-  laikas, tam tikros šaknys) — žr. skyrių žemiau; tai dažniausia rašybos klaida.
-- Priebalsių **rašyba morfologinė**: rašom pagal kilmę, ne pagal tarimą (~~sunkvežimis~~ tariam „sunkv-",
-  bet rašom pagal *sunkus*: **sunkvežimis**; *nešė* → *neštas*, ne „nestas").
+- **Nosinės ą ę į ų** rašomos ne dėl to, kad tariama „nosim“, o dėl **kilmės/galūnės** (kilmininkas, būsimasis
+  laikas, tam tikros šaknys) – žr. skyrių žemiau; tai dažniausia rašybos klaida.
+- Priebalsių **rašyba morfologinė**: rašom pagal kilmę, ne pagal tarimą (~~sunkvežimis~~ tariam „sunkv-“,
+  bet rašom pagal *sunkus*: **sunkvežimis**; *nešė* → *neštas*, ne „nestas“).
 
 ---
 
@@ -223,12 +224,12 @@ Išimtis: nosinė rašoma ir siekinių gale (eik dirbtų, išėjo medžiotų).
 - **a)** Duslieji k, p, t, s, š suskardėja prieš skardžiuosius b, d, g, z, ž: sukdamas (tariama sugdamas), trukdis (tariama trugdis), lipdyti (tariama libdyti)
 - **b)** Skardieji b, d, g, z, ž suduslėja prieš dusliuosius k, p, t, s, š: dirbti (tariama dirpti), gobšus (tariama gopšus), lygtis (tariama lyktis), varžtas (tariama varštas)
 
-**Patikra:** Abejojant, kurią priebalsę rašyti, pasitikrinkite pagal būtąjį kartinią laiką — jei šaknies gale yra z arba ž, šios priebalsės rašomos ir kitose formose: irzo → irzti, lūžo → lūžti, grimzdo → grimzti.
+**Patikra:** Abejojant, kurią priebalsę rašyti, pasitikrinkite pagal būtąjį kartinią laiką – jei šaknies gale yra z arba ž, šios priebalsės rašomos ir kitose formose: irzo → irzti, lūžo → lūžti, grimzdo → grimzti.
 
 ### Šaknies pučiamieji s, z, ž prieš č, dž rašomi pagal giminiškus žodžius:
 - anksčiau (plg. anksti), rūsčiai (plg. rūstus), pavyzdžiui (plg. pavyzdys), vabzdžiai (plg. vabzdys), vežčiau (plg. vežė)
 
-**Patikra:** Žodį pakeiskite taip, kad vietoj č atsirastų t, vietoj dž — d: mokesčiai (plg. mokestis), skruzdžių (plg. skruzdė).
+**Patikra:** Žodį pakeiskite taip, kad vietoj č atsirastų t, vietoj dž – d: mokesčiai (plg. mokestis), skruzdžių (plg. skruzdė).
 
 ### To paties priešdėlio priebalsiai visada rašomi vienodai (neatsižvelgiant į tarimą):
 - apdaras, apdrausti, atbusti, atkelti, išbėgti, užbėgti, užsienis, perrašyti, perrengti, prieššventinis, užželti

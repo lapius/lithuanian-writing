@@ -1,18 +1,18 @@
-# Didžiosios raidės ir tikriniai vardai (capitalisation & proper names)
+# Didžiosios raidės ir tikriniai vardai
 
-Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §7–§8. Lithuanian capitalises **far less** than English — this is
-the single biggest tell of translated text.
+Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §7–§8. Lietuviškai didžiųjų raidžių rašoma **gerokai mažiau**
+negu angliškai – tai ryškiausias verstinio teksto požymis.
 
-## MAŽĄJA raide (unlike English) — check these first
+## MAŽĄJA raide (unlike English) – check these first
 
-- **Mėnesiai:** sausis, vasaris… (~~Sausis~~). „2022 m. **sausio** 5 d."
+- **Mėnesiai:** sausis, vasaris… (~~Sausis~~). „2022 m. **sausio** 5 d.“
 - **Savaitės dienos:** pirmadienis, antradienis… (~~Pirmadienį~~).
 - **Tautybės, gyventojų pavadinimai:** lietuvis, anglas, žydas (~~Lietuvis~~).
 - **Kalbos:** lietuvių kalba, anglų kalba (~~Anglų Kalba~~).
 - **Pareigos, profesijos** (paprastame tekste): direktorius, ministras, profesorius (didžioji tik pagarbiai
-  kreipiantis ar oficialiuose pareigūnų pavadinimuose — žr. žemiau).
+  kreipiantis ar oficialiuose pareigūnų pavadinimuose – žr. žemiau).
 - **Antraštėse ir pavadinimuose – tik pirmasis žodis** iš didžiosios (+ tikriniai vardai viduje). Ne kaip
-  angliškas Title Case: „Rinkodaros skyrius" (~~Rinkodaros Skyrius~~), knyga „Metų laikai".
+  angliškas Title Case: „Rinkodaros skyrius“ (~~Rinkodaros Skyrius~~), knyga „Metų laikai“.
 - **Šventės, istoriniai laikotarpiai** – dažnai mažąja arba tik pirmasis žodis (renesansas, antikos laikai);
   pagarbiai teikiamos išimtys žemiau.
 
@@ -31,7 +31,7 @@ the single biggest tell of translated text.
 
 ## Tikriniai žodžiai ir pavadinimai
 
-- Iš didžiosios raidės pradedami rašyti tikriniai žodžiai ar pavadinimai. (pvz.: *Eglė, Mindaugas, Kaunas, Nemunas, Kuršių marios, Lietuvos Respublika, „Lietuvių kalbos žodynas"*)
+- Iš didžiosios raidės pradedami rašyti tikriniai žodžiai ar pavadinimai. (pvz.: *Eglė, Mindaugas, Kaunas, Nemunas, Kuršių marios, Lietuvos Respublika, „Lietuvių kalbos žodynas“*)
 
 ## Stilistinis didžiųjų raidžių vartojimas
 
@@ -42,7 +42,7 @@ the single biggest tell of translated text.
 
 - Svarbiausių kulto aktų, pagrindinių religinių apeigų, šventraščių pavadinimų visi žodžiai, kuriems suteikiama išskirtinė reikšmė, gali būti rašomi iš didžiosios raidės. (pvz.: *Švenčiausiasis Sakramentas, Eucharistija, Viešpaties Vakarienė; Komunija, Pirmoji Komunija, Mišios, Šventasis Raštas, Senasis Testamentas, Naujasis Testamentas*)
 - Pagrindinio sakramento pavadinimas *Švenčiausiasis Sakramentas* – abu žodžiai iš didžiosios raidės; kitų sakramentų pavadinimuose – tik pirmasis žodis. (pvz.: *Krikšto sakramentas*)
-- **Išimtis:** Religiniuose tekstuose žodis *bažnyčia* reikšme „religinė bendruomenė" gali būti rašomas iš didžiosios raidės. (pvz.: *Katalikų Bažnyčia, Stačiatikių Bažnyčia, Bažnyčia*)
+- **Išimtis:** Religiniuose tekstuose žodis *bažnyčia* reikšme „religinė bendruomenė“ gali būti rašomas iš didžiosios raidės. (pvz.: *Katalikų Bažnyčia, Stačiatikių Bažnyčia, Bažnyčia*)
 
 ## Svarbūs dokumentai, organizacijos, judėjimai
 
@@ -89,7 +89,7 @@ the single biggest tell of translated text.
 
 - **Karalių, karalienių, popiežių ir šventųjų vardai** vartojamos tradicinės formos. (pvz.: karalius Pilypas VI, popiežius Pranciškus, šventasis Petras)
 
-- **Asmenvardis su kabutėmis** rašomas tik kaip simbolinis pavadinimas. (pvz.: saldainiai „Rūta", opera „Aida")
+- **Asmenvardis su kabutėmis** rašomas tik kaip simbolinis pavadinimas. (pvz.: saldainiai „Rūta“, opera „Aida“)
 
 - **Daugiskaita** rašoma iš didžiosios raidės, kai žymimi keli tą patį vardą turintys asmenys. Išimtis: kai vardas vartojamas kaip stiliaus figūra apibendrinamąja reikšme – mažoji raidė. (pvz.: trys Kamilės; bet: augantys einšteinus, mocartus)
 
@@ -139,7 +139,7 @@ the single biggest tell of translated text.
 
 - **Daugiskaita**, kai vartojami keli to paties ženklo atstovai, – iš didžiosios raidės. (pvz.: Vyrai Liūtai)
 
-- **„Žmogaus būdo" reikšme** zodiakas rašomas mažąja raide. (pvz.: Koks tavo zodiakas?)
+- **„Žmogaus būdo“ reikšme** zodiakas rašomas mažąja raide. (pvz.: Koks tavo zodiakas?)
 
 ## Naminių gyvūnų vardai
 
@@ -185,7 +185,7 @@ the single biggest tell of translated text.
 
 - **Pastoviuosiuose žodžių junginiuose** galima dvejopa rašyba. (pvz.: peržengti Rubikoną / rubikoną)
 
-- **Vietovardis su kabutėmis** tik kaip simbolinis pavadinimas. (pvz.: viešbutis „Klaipėda", žurnalas „Nemunas")
+- **Vietovardis su kabutėmis** tik kaip simbolinis pavadinimas. (pvz.: viešbutis „Klaipėda“, žurnalas „Nemunas“)
 
 - **Vertimai iš kitų kalbų** rašomi pagal tas pačias taisykles kaip lietuviški. (pvz.: Didžioji Smėlio dykuma, Santarvės aikštė)
 
@@ -240,25 +240,25 @@ the single biggest tell of translated text.
 
 ## Simboliniai pavadinimai
 
-- Simboliniai pavadinimai rašomi **kabutėse**, pirmasis žodis pradedamas **didžiąja raide**; prieš juos einantys gimininiai žodžiai ne sakinio pradžioje rašomi **mažąja raide** (pvz.: *leidykla „Šviesa"*, *restoranas „Stikliai"*, *UAB „Kaip nulieta"*).
+- Simboliniai pavadinimai rašomi **kabutėse**, pirmasis žodis pradedamas **didžiąja raide**; prieš juos einantys gimininiai žodžiai ne sakinio pradžioje rašomi **mažąja raide** (pvz.: *leidykla „Šviesa“*, *restoranas „Stikliai“*, *UAB „Kaip nulieta“*).
 
 - Tradicškai be kabučių ir iš didžiosios raidės rašomi simboliniai draugijų pavadinimai: **Raudonasis Kryžius**, **Raudonasis Pusmėnulis**, **Rotary klubas** (pvz.: *Raudonojo Kryžiaus ligoninė*).
 
-- Simbolinį pavadinimą turinčių institucijų **struktūrinių padalinių** pavadinimai rašomi iš didžiosios raidės, o prieš simbolinius padalinių pavadinimus (kabutėse) – mažąja raide (ne sakinio pradžioje) rašomas gimininis žodis (pvz.: *valstybės įmonės „Regitra" Panevėžio filialas*, *AB „Lietuvos spauda" Biržų skyrius*).
+- Simbolinį pavadinimą turinčių institucijų **struktūrinių padalinių** pavadinimai rašomi iš didžiosios raidės, o prieš simbolinius padalinių pavadinimus (kabutėse) – mažąja raide (ne sakinio pradžioje) rašomas gimininis žodis (pvz.: *valstybės įmonės „Regitra“ Panevėžio filialas*, *AB „Lietuvos spauda“ Biržų skyrius*).
 
-- Bendriniai asmenų pavadinimai, kilę iš simbolinio pavadinimo, rašomi **mažąja raide ir be kabučių** (pvz.: chorų „Ąžuoliukas", „Dagilėlis" nariai – *ąžuoliukai*, *dagilėliai*).
+- Bendriniai asmenų pavadinimai, kilę iš simbolinio pavadinimo, rašomi **mažąja raide ir be kabučių** (pvz.: chorų „Ąžuoliukas“, „Dagilėlis“ nariai – *ąžuoliukai*, *dagilėliai*).
 
 ## Mišrieji pavadinimai
 
-- Į mišrųjį pavadinimą įeinantis **tiesioginės reikšmės tikrinis pavadinimas ir po jo einantis simbolinis pavadinimas rašomi iš didžiosios raidės** (pvz.: *Valstybinis dainų ir šokių ansamblis „Lietuva"*, *VšĮ Triatlono ir plaukimo klubas „Ruoniai"*).
+- Į mišrųjį pavadinimą įeinantis **tiesioginės reikšmės tikrinis pavadinimas ir po jo einantis simbolinis pavadinimas rašomi iš didžiosios raidės** (pvz.: *Valstybinis dainų ir šokių ansamblis „Lietuva“*, *VšĮ Triatlono ir plaukimo klubas „Ruoniai“*).
 
-- Į mišrųjį pavadinimą įeinantis tiesioginės reikšmės pavadinimas gali būti **trumpinamas gimininiu žodžiu** (mažąja raide, ne sakinio pradžioje) (pvz.: *asociacija „Linava"*, *klubas „Ruoniai"*).
+- Į mišrųjį pavadinimą įeinantis tiesioginės reikšmės pavadinimas gali būti **trumpinamas gimininiu žodžiu** (mažąja raide, ne sakinio pradžioje) (pvz.: *asociacija „Linava“*, *klubas „Ruoniai“*).
 
 ## Teisinės formos nuoroda
 
 - Teisinės formos pavadinimas (arba santrumpa) rašomas **mažąja raide** (ne sakinio pradžioje) ir paprastai **prieš** tikrinį pavadinimą (pvz.: *akcinė bendrovė Lietuvos paštas*, *AB Lietuvos paštas*, *VšĮ Centro poliklinika*).
 
-- Teisinės formos nuoroda gali būti rašoma ir **po pavadinimo** – tada išskiriama kableliais kaip priedėlis (pvz.: *Centro poliklinika, VšĮ*; *Medicinos bankas, AB*; *„Naujas žvilgsnis", uždaroji akcinė bendrovė*).
+- Teisinės formos nuoroda gali būti rašoma ir **po pavadinimo** – tada išskiriama kableliais kaip priedėlis (pvz.: *Centro poliklinika, VšĮ*; *Medicinos bankas, AB*; *„Naujas žvilgsnis“, uždaroji akcinė bendrovė*).
 
 ## Vietovardis pavadinime
 
