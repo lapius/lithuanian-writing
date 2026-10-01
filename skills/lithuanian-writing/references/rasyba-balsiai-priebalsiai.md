@@ -9,8 +9,8 @@ galūnėse).
 - **y, ū** = ilgas įtemptas garsas (knyga, būrys); **i, u** = trumpas (bitė, butas).
 - **Nosinės ą ę į ų** rašomos ne dėl to, kad tariama „nosim“, o dėl **kilmės/galūnės** (kilmininkas, būsimasis
   laikas, tam tikros šaknys) – žr. skyrių žemiau; tai dažniausia rašybos klaida.
-- Priebalsių **rašyba morfologinė**: rašom pagal kilmę, ne pagal tarimą (~~sunkvežimis~~ tariam „sunkv-“,
-  bet rašom pagal *sunkus*: **sunkvežimis**; *nešė* → *neštas*, ne „nestas“).
+- Priebalsių **rašyba morfologinė**: rašom pagal kilmę, ne pagal tarimą: **dirbti** (tariama „dirpti“),
+  **sukdamas** (tariama „sugdamas“) (§3.2.1).
 
 ---
 
@@ -47,13 +47,15 @@ galūnėse).
 - **Dviskiemenių** (išskyrus -yti, -(i)ūti) ir **daugiaskiemenių** veiksmažodžių būsimojo laiko formose rašomos balsės, žyminčios tokį pat ilgumą kaip bendraties šaknyje: (rišiu, riši, riš – nes rišti; mušiu, muši, muš – nes mušti; slysiu, slysi, slys – nes slysti)
 - **Dviskiemenių -yti, -(i)ūti** veiksmažodžių būsimojo laiko **trečiojo asmens** formoje rašoma **i arba u**: (gis – nes gyti; lis – nes lyti; bus – nes būti; džius – nes džiūti)
 - **Būsimojo laiko pirmojo ir antrojo asmens** šaknyje balsės tokios pat kaip bendratyje: (gysiu, gysi – nors gis; būsiu, būsi – nors bus)
+- *vyti* ir *siūti* būsimajame laike išlaiko **y, ū**: *vys, vysiu; siūs, siūsiu* (§2.1.6).
 - Jei prieš baigmenį **-ti** eina **priebalsė**, būsimojo laiko trečiojo asmens formoje išlaikomos balsės **y, ū**: (blykšti → blykš; dygti → dygs; vysti → vys; pūsti → pūs)
 
 ## Darinių šaknies rašymas
 
 - **Galūninės darybos vediniuose** šaknyje tokia pat balsė kaip tose veiksmažodžio formose, iš kurių jie padaryti: (apvija – nes apvijo; trūkis – nes trūko; nuoskutos – nes nuskuto)
-- **Priesaga -imas** rašoma vediniuose iš veiksmažodžių, kurių bendratis baigiasi ne -yti: (nešti → nešimas; dalyti → dalijimas; mokyti → mokymas)
+- **Priesaga -imas** rašoma vediniuose iš visų veiksmažodžių, **išskyrus** tuos, kurių bendratis baigiasi **-yti**, o esamojo laiko trečiasis asmuo **-o**: (nešti, neša → nešimas; dalyti, dalija → dalijimas) (§2.1.7 kom. 1*)
 - **Priesaga -ymas** rašoma vediniuose iš veiksmažodžių, kurių bendratis baigiasi **-yti**, o esamojo laiko trečiojo asmens forma **-o**: (mokyti → mokymas; prašyti → prašymas; rašyti → rašymas)
+- Abejojant -imas ar -ymas: žiūrėk esamojo laiko 3 asmenį: *dalija* → dalijimas, *moko* → mokymas.
 - Vedinių, kurių priesaga prasideda **priebalse**, šaknyje rašoma tokia pat balsė kaip bendratyje: (grūsti → grūstuvas; mušti → muštuvė; būti → būtis)
 
 ## Balsių kaita galūninės ir sudurtinės darybos dariniuose
@@ -93,6 +95,12 @@ galūnėse).
 ## §2.2–2.3 Balsiai e/(i)a ir nosinės raidės ą ę į ų
 
 ## Raidė e rašymas
+
+### Linksniuojamųjų žodžių galūnėse (§2.2.1–2.2.2)
+- Rašoma **e (ę)**, kai vienaskaitos ir daugiskaitos vardininko galūnėse yra **-ė**: vns. naudininkas,
+  galininkas, įnagininkas, dgs. galininkas: *gėlei, gėlę, gėle, gėles* (nes gėlė, gėlės); *žemei, žemę;
+  didelei, didelę, didele, dideles; Ugnei, Ugnę*.
+- Išimtis: *dukteriai, dukteria* (nes dgs. dukterys); *seseriai* (nes sesuo; bet sesė → sesei).
 
 ### Veiksmažodžių būtojo kartinio laiko galūnėje
 - Rašoma **-ei**, jei trečiasis asmuo baigiasi **-ė** (davei – davė; rašei – rašė; valgei – valgė).
@@ -145,8 +153,8 @@ Išimtis: esamojo laiko trečiojo asmens gale **niekada** nerašoma **e**.
 - Rašoma **(i)a** prieveiksmių gale (bėgčia, čia, nejučia, nakčia, šalia, tyčia, vogčia).
 
 ### Sudurtiniuose žodžiuose
-- Tarp dalyvių rašoma **ia** (aštriadantis, daugiakalbis, piliakalnis, rugiagėlė).
-- Išimtis: sudurtinių dešimčių pavadinimai rašomi su **ia** (keturiasdešimt, penkiasdešimt).
+- Tarp dėmenų rašoma **ia** (aštriadantis, daugiakalbis, piliakalnis, rugiagėlė); jungiamosios balsės **e** nėra (§2.2.14).
+- Taip pat su **ia** sudurtiniai dešimčių pavadinimai ir jų dariniai (keturiasdešimt, penkiasdešimt, keturiasdešimtas).
 
 ---
 
@@ -174,7 +182,7 @@ Išimtis: nosinės rašomos tik esamojo laiko šaknyse – kitų laikų formose 
 - Išimtis: variantuose **in-**, **im-** nerašomos (indėlis, inkilas, intarpas).
 
 ### Prielinksnyje
-- Prielinksnis **į** rašoma nosine raide (eiti į teatrą, mesti į dėžę).
+- Prielinksnis **į** rašomas nosine raide (eiti į teatrą, mesti į dėžę).
 
 ### Galūnėse
 - Nosinės rašomos vienaskaitos galininko galūnėje (džiaugsmą, knygą, baltą, brolį, sūnų).
@@ -183,7 +191,16 @@ Išimtis: nosinės rašomos tik esamojo laiko šaknyse – kitų laikų formose 
 
 Išimtis: nerašomos įvardžių galininko galūnėje **mane**, **tave**, **save** (bet kilmininke – manęs, tavęs, savęs).
 
-Išimtis: nerašomos kiekinių skaitvardžių nuo 11 iki 19 galininkuose (vienuolika, penkiolika).
+Išimtis: nerašomos kiekinių skaitvardžių nuo 11 iki 19 ir *keliolika* galininkuose (vienuolika, penkiolika).
+
+Išimtis: nerašomos bevardės giminės (negimininių) formų galūnėse: *Visa palikau namie. Kaimynas antra tiek turi* (§2.3.8 c).
+
+### Įvardžiuotinės formos (§2.3.11)
+- Vns. galininke ir dgs. kilmininke nosinės **abiejuose galūnės skiemenyse**: *gražųjį, gražiąją, naująjį,
+  antrąjį, būsimąją; gražiųjų, naujųjų, antrųjų*.
+- **ą** priešpaskutiniame skiemenyje mot. g. vns. įnagininke ir dgs. galininke: *gražiąja, naująja;
+  gražiąsias, naująsias*.
+- Vns. **naudininke ir vietininke nosinių nėra**: *naujajai, naujajam, naujajame; antrajam*.
 
 ### Tariamojoje nuosakoje
 - Trečiajame asmenyje rašoma **ų** (eitų, rašytų, valgytų, žiūrėtų).
@@ -224,7 +241,7 @@ Išimtis: nosinė rašoma ir siekinių gale (eik dirbtų, išėjo medžiotų).
 - **a)** Duslieji k, p, t, s, š suskardėja prieš skardžiuosius b, d, g, z, ž: sukdamas (tariama sugdamas), trukdis (tariama trugdis), lipdyti (tariama libdyti)
 - **b)** Skardieji b, d, g, z, ž suduslėja prieš dusliuosius k, p, t, s, š: dirbti (tariama dirpti), gobšus (tariama gopšus), lygtis (tariama lyktis), varžtas (tariama varštas)
 
-**Patikra:** Abejojant, kurią priebalsę rašyti, pasitikrinkite pagal būtąjį kartinią laiką – jei šaknies gale yra z arba ž, šios priebalsės rašomos ir kitose formose: irzo → irzti, lūžo → lūžti, grimzdo → grimzti.
+**Patikra:** Abejojant, kurią priebalsę rašyti, pasitikrinkite pagal būtąjį kartinį laiką – jei šaknies gale yra z arba ž, šios priebalsės rašomos ir kitose formose: irzo → irzti, lūžo → lūžti, grimzdo → grimzti.
 
 ### Šaknies pučiamieji s, z, ž prieš č, dž rašomi pagal giminiškus žodžius:
 - anksčiau (plg. anksti), rūsčiai (plg. rūstus), pavyzdžiui (plg. pavyzdys), vabzdžiai (plg. vabzdys), vežčiau (plg. vežė)
