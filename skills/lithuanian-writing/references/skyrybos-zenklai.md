@@ -224,6 +224,16 @@ Lietuvių kalbos rašyboje vartojamas pasvirasis dešininis brūkšnys (/), pasv
 
 ---
 
+## Grafiniai ženklai (Rašyba 2022, §1, p. 19–20)
+
+- **Po skaičiaus su tarpu**: procentai *0,5 %, 15–20 %*; promilės *0,15 ‰*; temperatūra *–5 °C, +55 °F*;
+  pinigai *10,18 €, 84 $*. Tarpas jungiamasis (Ctrl+Shift+Space arba Alt+0160), kad nesiskaidytų eilutėse.
+- **Be tarpo**: kampo laipsniai, minutės, sekundės *90°, 90′, 90″*; tildė „apie“ prieš skaičių *~3 000 eurų*;
+  *@* el. pašto adrese; neigiamas ar teigiamas skaičius *−5, +14*. Atimties ir sudėties ženklas su tarpais.
+- **Paragrafas prieš skaičių su tarpu**: *§ 8, § 33–38* (ne ~~§§ 33–38~~).
+- ***Nr.* paprastai nerašomas** numeruojant lenteles, paveikslus, gatves, įstaigas: skaitmuo prieš žodį,
+  *6-oje lentelėje, 2 pav., Kauno 15-asis lopšelis-darželis* (§10.2 kom.).
+
 ## Data ir laikas
 
 ### Skaitmeninė data:
