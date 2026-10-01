@@ -25,18 +25,22 @@ Taisyklėse **(,)** reiškia *pasirenkamą* ženklą: rašyti galima, nerašyti 
 
 Daugiausia klaidų būna čia. Šalutinis dėmuo išskiriamas **iš abiejų pusių**.
 
-- ✔ **Šalutinis dėmuo išskiriamas kableliais iš abiejų pusių (§11.1).** Jungiamieji žodžiai: *kad, jog,
+- ✔ **Šalutinis dėmuo išskiriamas kableliais iš abiejų pusių (§11.1)**, retai brūkšniais (*Kad stalčiuose nieko nebuvo – tendencingas melas*). Jungiamieji žodžiai: *kad, jog,
   kuris, koks, kas, kur, kada, kai, kol, nes, kadangi, jei(gu), nors, lyg, tarsi, kaip, negu/nei, užuot…*
   - Vyras, **kuris sėdėjo pirmoje eilėje,** pradėjo ploti. ← antrasis kablelis dažniausiai pamirštamas
   - Jis žinojo, apie ką kalbėti**,** ir triukšmas nurimo.
   - Kosmose yra apsilankę daugiau žmonių**,** nei nusileidę į 4 km gylį. (*nei* jungia sakinį)
+- ✔ **Šalutinis dėmuo, vienarūšis su neskiriama sakinio dalimi** (§11.12), išskiriamas kartu su ja, jei prie
+  pagrindinio dėmens tiesiogiai prisijungęs šalutinis dėmuo: *Bendrąją būklę ir ką gyvūnas yra ėdęs**,**
+  nustato gydytojas.* ✘ Neskiriama, jei tiesiogiai prisijungusi neskiriamoji dalis: *Nesidomėjo naujienomis
+  ir ką rengiasi daryti opozicija.*
 - ✔ **Prielinksnis ar dalelytė eina kartu su jungiamuoju žodžiu**, kablelis prieš juos: *…kelias,
   **per kurį** vingiavo…*; *…žinojo, **apie ką** kalbėti*.
 - ◐ **Dviejų jungtukų sandūra (§11.9):** *kad(,) kai…*, *ir(,) jei…*, *bet(,) kai…*, *todėl(,) jei…*,
   *kuris(,) kai…*: kablelis tarp jų pasirenkamas. Antrasis kablelis po vidinio šalutinio dėmens yra **privalomas**:
   - Reikia pasakyti, kad(,) kai tik įžengia į salę**,** tuoj gudrybė dingsta.
 - ◐ **Vienas klausiamasis žodis po tarinio (§11.2):** *nesupratom(,) kas*; *nežinojo(,) nuo ko*.
-- ✔ **Vienas klausiamasis žodis sakinio pradžioje (§11.3):** *Koks**,** jis negalėjo pasakyti.*
+- ✔ **Vienas klausiamasis žodis sakinio pradžioje (§11.3):** *Koks**,** jis negalėjo pasakyti.* Galima ir brūkšnys: *…o kur – vieni dievai žino.*
 - ◐ *vargu(,) ar*; *kažin(,) ar / kada / kur* (§11.4).
 - ◐ *nėra(,) kas*; *neturi(,) kada*; *yra(,) kur* (§11.5): be kablelio, jei suvokiama kaip pastovi samplaika.
 - ◐ Dalelytė prieš šalutinį dėmenį (*juk, gal*): *Juk(,) kai nusiperki…* (§11.6).
@@ -64,8 +68,9 @@ Daugiausia klaidų būna čia. Šalutinis dėmuo išskiriamas **iš abiejų pusi
 
 ## 2. Sujungiamieji ir bejungtukiai sakiniai (§12–13)
 
-- ✔ **Priešinamieji, paremiamieji jungtukai**, kablelis prieš juos: *o, bet, tačiau, tik(tai), vis dėlto,
-  užtat, tad, todėl, taigi* (§12.1). *Nelengva apsispręsti**,** bet vis dėlto puiku.*
+- ✔ **Priešinamieji, paremiamieji jungtukai**, kablelis (rečiau kabliataškis) prieš juos: *o, bet, tačiau,
+  tik(tai), vis dėlto, (per) tai, užtai, užtat(ai), tad, todėl*, ir samplaikos *o vis dėlto, bet vis dėlto,
+  bet užtat* (§12.1). *Nelengva apsispręsti**,** bet vis dėlto puiku.*
 - ✔ **Kartojami jungtukai** *ir… ir, nei… nei, arba… arba, ar… ar, čia… čia*: kablelis prieš antrąjį ir
   tolesnius (§12.2). *Ir eina dienos**,** ir slenka naktys.*
 - ◐ **Vienas *ir, nei, ar, arba*** tarp dviejų savarankiškų sakinių (§12.3): kablelis pasirenkamas, rašomas
@@ -74,8 +79,10 @@ Daugiausia klaidų būna čia. Šalutinis dėmuo išskiriamas **iš abiejų pusi
 - ◐ Išvadiniai *ir baigta, ir viskas, ir tiek, ir galas* (§12.4).
 - **Bejungtukiai (§13.1):**
   - išvardijimas, gretinimas, priešprieša → **kablelis / kabliataškis**: *Dienos trumpos, vakarai ilgi.*
-  - sąlyga, laikas, pasekmė, netikėtumas → **brūkšnys**: *Atsipūs arkliai – vėl važiuosime.*
-  - aiškinimas, priežastis → **dvitaškis** (ar brūkšnys): *Tu kalbi teisingai: …*
+  - apibendrinimas, sąlyga, laikas, nuolaida, neatitikimas → dažniau **brūkšnys**: *Atsipūs arkliai – vėl
+    važiuosime. Šaukiu – niekas neatsako.*
+  - aiškinimas, priežastis, pasekmė → **dvitaškis ar brūkšnys**: *Tu kalbi teisingai: …* *Sapnavau naktį
+    gaidį – nelaimė bus.*
   - Angliškam tekstui būdingas dviejų sakinių sujungimas vien kableliu lietuviškai dažniausiai yra
     gerai, jei tai išvardijimas; jei priežastis ar išvada, geriau dvitaškis ar brūkšnys.
 - ✔ *Taip, ne, gerai, nieko, ką* sakinio pradžioje kaip atsakymas (§13.2): ***Ne,** aš neateisiu.*
@@ -164,9 +171,11 @@ Kableliai prie dalyvinių aplinkybių **pasirenkami**, todėl šią sritį dažn
 - ✔ **Įterpiniai** išskiriami abipus (§8.1): *matyt, rodos, beje, vadinasi, žinoma, be abejo, deja,
   laimė, pirma, antra, kaip jau minėta, mano manymu, tiesą pasakius, kitaip tariant, pavyzdžiui*.
   - *Visus**, matyt,** sutraukė kalbėtojas.*
-- ◐ **Modaliniai žodžiai** (§8.4): *galbūt, turbūt, tikriausiai, greičiausiai, iš tiesų, iš esmės, iš
-  principo, paprastai, pirmiausia, apskritai, taigi, vis dėlto, pagaliau, palyginti, savo ruožtu,
-  visų pirma, štai, mat, esą, atseit* **galima** skirti, nebūtina. Neskirk jų kaip klaidos.
+- ◐ **Modaliniai žodžiai** (§8.4, visas sąrašas): *anaiptol, antai, apskritai, atseit, būtent, destis, esą,
+  galbūt, galų gale, geriau, greičiausia(i), iš esmės, iš principo, iš tiesų, iš tikro, iš tikrųjų, iš viso,
+  kaip tyčia, lyg tyčia, konkrečiai, mat, pagaliau, (ne)palyginti, paprastai, pirmiausia(i), rasi(t), savo
+  ruožtu, šiukštu, štai, taigi, tikriausiai, turbūt, veikiausiai, vis dėlto, visų pirma* **galima** skirti,
+  nebūtina. Neskirk jų kaip klaidos.
   - Įterpinio (✔) ir modalinio žodžio (◐) painiojimas yra pagrindinė taisymo klaida. Jei žodis
     yra §8.4 sąraše, nežymėk kaip klaidos.
 - ◐ Įterpinys po *ir, bet* (§8.2): *Bet(,) žinai, kunige, yra moterų…* Su ***o*** kablelis po *o* nerašomas,
@@ -174,6 +183,9 @@ Kableliai prie dalyvinių aplinkybių **pasirenkami**, todėl šią sritį dažn
 - **Įspraudai (§8.3)**: skliaustai, brūkšniai arba kableliai, pvz., *Ore – sunku patikėti – mirgėjo peteliškės.*
 - ✔ **Kreipinys** išskiriamas abipus (§9.1): *Bus**, mama,** kitoks gyvenimas.* *Atleiskite**, ponia
   Liucija,** kad…* Vardininkas vietoj šauksmininko kreipinyje yra gramatikos klaida (*Birutė* → *Birute*).
+  Laiško pradžioje kreipinys po pasisveikinimo irgi skiriamas: *Laba diena**,** pone Petrai**,***; *Sveiki**,**
+  kolegos*. Su įvardžiu *tu, jūs* kreipinys skiriamas kartu, jei įvardis negali būti veiksnys: *Jau kito
+  tokio**, tu mano katinėli,** niekur nerasčiau* (§9.2).
 - ◐ *Jūs(,) pilieti, pats kaltas* (§9.3).
 - ◐ Jaustukai *ak, ei, oi* (§8.4): *Ei(,) kaimyne…*
 - **Praleidimas (§10)**: brūkšnys vietoj praleisto *yra* ◐, pvz., *Jis (–) baisus žmogus.* *Tai (–) mūsų rūpestis.*
