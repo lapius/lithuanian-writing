@@ -40,6 +40,16 @@ ją; jei ne, žodį pažymėk „tikrinti žodyne“, o ne išgalvok kirtį.
 Prielinksniai ir dalelytės (*ne, be, te, į, nuo* ir pan.) dažniausiai nekirčiuojami ir tariami kartu su
 kitu žodžiu.
 
+## Variantai ir normos pokyčiai
+
+- **Norminiai variantai lygiaverčiai, bet vartok nuosekliai.** VLKK: patvirtintų rekomendacijų variantai
+  „vertintini kaip norminiai“; klaida yra nenorminiai variantai ir „norminių kirčiavimo variantų
+  nenuoseklus vartojimas“ (vlkk.lt › Tartis ir kirčiavimas › Variantų vartojimas). Viename tekste
+  nemaišyk, pvz., *fiestà* ir *fíesta*.
+- **Normos keičiamos.** Pvz., VLKK nutarimais pakeista *kãštai* (2), *fiestà, siestà* (2 kirčiuotė greta 1-osios),
+  *pėdà* (3) / *pė́da* (1). Senesniame žodyne kirtis gali būti pasenęs: tikrink naujausias VLKK tarties ir
+  kirčiavimo rekomendacijas.
+
 ## Praktiškai
 
 Kalbos sintezei patikimas šaltinis yra sukirčiuotas žodžių sąrašas ar morfologinis analizatorius, o ne
