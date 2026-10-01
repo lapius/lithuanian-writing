@@ -11,7 +11,17 @@ smulkios išimtys. Retesniam svetimvardžiui tikrink VLKK konsultacijų banką.
   *Bjornsonas*).
 - **Transkribuota forma** (pagal tarimą): *Šekspyras, Bodleras, Niujorkas.*
 
-Nelotyniško raidyno kalbos (rusų, graikų…) **perrašomos lotyniškais rašmenimis**: *Ivanova, „Echo Moskvy“.*
+**Kurį būdą rinktis lemia teksto rūšis** (§9.2.1):
+- **laisvesni tekstai** (grožiniai, populiarūs, vaikams ir jaunimui) → **transkribuojama**: *Džeimsas Džoisas*;
+- **dalykiniai tekstai** (moksliniai, reklaminiai, informaciniai, oficialūs dokumentai) → **autentiški
+  asmenvardžiai** (*James Joyce'as*), o labiau paplitę vietovardžiai dažniausiai transkribuojami;
+- **tradicinės formos visada**: *Karolis Didysis, Elžbieta II, Paryžius, Varšuva, Krokuva*;
+- formas galima pateikti pagrečiui, vieną skliaustuose (kom.).
+
+**Nelotyniško raidyno kalbos** (rusų, graikų, arabų, kinų…) **transkribuojamos** pagal apytikslį tarimą ir
+tradiciją **arba transliteruojamos** paraidžiui; išskirtiniais atvejais lotynizuota forma (§9.2.2):
+*Muamaras al Kadafis* (transkr.), *Muammaras al Kaddafis* (translit.), *Muammar al-Qaddafi* (lotyn.).
+Perrašos taisyklės pagal kalbas: vlkk.lt › Aktualiausios temos › Svetimvardžiai.
 
 ### Galūnių pridėjimas transkribuojant vyriškus vardus/vietovardžius, kurie baigiasi priebalsiu
 
@@ -29,9 +39,9 @@ Nelotyniško raidyno kalbos (rusų, graikų…) **perrašomos lotyniškais rašm
 - Tikriniai vardai rašomi **iš didžiosios**, simboliniai pavadinimai **lietuviškose kabutėse „…“** išlaikant
   autentišką rašybą: *„Windows“, „Le Monde“.*
   - **Kabutes gali atstoti kitas šriftas** (pasvirasis, pusjuodis): *Decobox*, **Decobox** (VLKK
-    konsultacija 10401; maisto gaminių pavadinimų rekomendacija). Neformaliame tekste pavadinimas be
-    kabučių yra autoriaus stiliaus pasirinkimas. Taisant tekstą, kabučių nebuvimo nežymėk kaip klaidos,
-    nebent tekstas oficialus.
+    konsultacija 10401; maisto gaminių pavadinimų rekomendacija). Be kabučių ir be kito šrifto VLKK
+    nenumato. **Vartotojo pasirinkimas:** jei vartotojas aiškiai pageidauja pavadinimų be kabučių,
+    laikykis to ir taisydamas nežymėk kaip klaidos; oficialiame tekste vieną kartą priminti normą.
 - **Plačiai vartojami pavadinimai adaptuojami** ir tampa bendriniais žodžiais: rašomi **mažąja raide, be
   kabučių, linksniuojami**: *audi, mersedesas, boingas; feisbukas, tviteris, jutubas, instagramas,
   mesendžeris, skaipas; gūglas* (ne *guglas, gūglis, guglė*) (VLKK konsultacijos 10401, 12761, 12624).
