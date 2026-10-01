@@ -186,6 +186,9 @@ Kableliai prie dalyvinių aplinkybių **pasirenkami**, todėl šią sritį dažn
   Laiško pradžioje kreipinys po pasisveikinimo irgi skiriamas: *Laba diena**,** pone Petrai**,***; *Sveiki**,**
   kolegos*. Su įvardžiu *tu, jūs* kreipinys skiriamas kartu, jei įvardis negali būti veiksnys: *Jau kito
   tokio**, tu mano katinėli,** niekur nerasčiau* (§9.2).
+- ✘ **Po laiško pabaigos formulės** *Su pagarba*, *Pagarbiai* skyrybos ženklas nededamas; pateisinamas
+  galėtų būti tik brūkšnys dėl ekspresijos (VLKK konsultacijų bankas, įrašas 2024-su-pagarba-pagarbiai). Kitoms formulėms (*Linkėjimai,
+  Geros dienos*) VLKK atskiro įrašo nėra: nežymėk kablelio kaip klaidos, bet ir neteik kaip taisyklės.
 - ◐ *Jūs(,) pilieti, pats kaltas* (§9.3).
 - ◐ Jaustukai *ak, ei, oi* (§8.4): *Ei(,) kaimyne…*
 - **Praleidimas (§10)**: brūkšnys vietoj praleisto *yra* ◐, pvz., *Jis (–) baisus žmogus.* *Tai (–) mūsų rūpestis.*
