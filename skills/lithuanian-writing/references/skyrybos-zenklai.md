@@ -1,18 +1,18 @@
 # Grafiniai ženklai: brūkšnys, kabutės, skaičiai, datos, pinigai
 
-Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §11. **Pastaba: čia – rašybos ženklai ir formatas, ne
-kablelių taisyklės sudėtiniuose sakiniuose.** Kableliai – `skyryba-kableliai.md`.
+Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §11. **Pastaba: čia rašybos ženklai ir formatas, ne
+kablelių taisyklės sudėtiniuose sakiniuose.** Kableliai aprašyti faile `skyryba-kableliai.md`.
 
 ## Svarbiausi skirtumai nuo anglų kalbos (taisyk pirmiausia)
 
 - **Kabutės: „…“** (apatinės atidaromosios, viršutinės uždaromosios). NE angliškos "…" ar “…”. Kabutėse –
   simboliniai pavadinimai: „Maxima“, romanas „Altorių šešėly“.
-- **Dešimtainė – kablelis:** 3,5 kg; 19,99 € (~~3.5~~).
-- **Tūkstančiai – tarpu (ne kableliu):** 10 000; 1 250 000 (~~10,000~~).
+- **Dešimtainės trupmenos skiriamos kableliu:** 3,5 kg; 19,99 € (~~3.5~~).
+- **Tūkstančiai skiriami tarpu (ne kableliu):** 10 000; 1 250 000 (~~10,000~~).
 - **Data:** „2022 m. sausio 5 d.“ arba 2022-01-05 (ISO). Mėnuo mažąja.
 - **Laikas:** 14.30 val. arba 14:30; „val.“ po skaičiaus.
 - **Pinigai:** simbolis/kodas **po** sumos su tarpu: 25 € / 25 Eur / 25,00 EUR.
-- **Brūkšnys – (su tarpais)** jungia/atskiria; **brūkšnelis -** (be tarpų) – sudurtiniuose, dvejybiniuose:
+- **Brūkšnys „–“ (su tarpais)** jungia ir atskiria; **brūkšnelis „-“** (be tarpų) rašomas sudurtiniuose, dvejybiniuose:
   žalia-geltona, S. Nėries, 5-oji. Apimties brūkšnys be tarpų: 10–15, p. 20–35.
 
 ---
@@ -108,7 +108,7 @@ Lietuvių kalbos rašyboje vartojamas pasvirasis dešininis brūkšnys (/), pasv
 - Pasvirasis brūkšnys su tarpais rašomas žymint alternatyvą išvardijimuose: tel. / faks., einamoji / atsiskaitomoji sąskaita.
 - Pasvirasis brūkšnys su tarpais rašomas cituojant eiliuotą tekstą viena eilute: Vincas Kudirka / Tautiška giesmė / Lietuva, tėvyne mūsų.
 - Išimtis: alternatyvą rišliame tekste įprasta žymėti skliaustais: Sprendimus priima rajonų (miestų) tarybos.
-- Pasvirasis dešininis brūkšnys nerašomas tarp žodžių, susijusių sintaksinės priklausomybės santykiais: asmens kodas – a. k. (ne a/k), pašto dėžutė – p. d. (ne p/d), lopšelis-darželis (ne l/d).
+- Pasvirasis dešininis brūkšnys nerašomas tarp žodžių, susijusių sintaksinės priklausomybės santykiais: asmens kodas → a. k. (ne a/k), pašto dėžutė → p. d. (ne p/d), lopšelis-darželis (ne l/d).
 
 ### Be tarpų
 - Pasvirasis brūkšnys be tarpų rašomas tarp simbolinių santrumpų, nurodant fizikinio dydžio reikšmę: vėjas 5–7 m/s, važiavo 150 km/h greičiu.
@@ -125,102 +125,102 @@ Lietuvių kalbos rašyboje vartojamas pasvirasis dešininis brūkšnys (/), pasv
 
 ### Pasvirasis brūkšnys NERAŠOMAS:
 
-- **Metų / laikotarpio ribos** – (2000–2020 m., ne 2000/2020 m.)
-- **Datos skaitmeniniu būdu** – (2020-02-02, ne 2020/02/02)
+- **Metų / laikotarpio ribos**: (2000–2020 m., ne 2000/2020 m.)
+- **Datos skaitmeniniu būdu**: (2020-02-02, ne 2020/02/02)
 
 ### Pasvirasis kairinis brūkšnys (\) rašomas:
 
-- **Kompiuterio failų keliuose** – (C:\Mano dokumentai\vrmrastas13.doc)
-- **DOS / Windows keliuose** – (C:\Žodynas\žodis.html)
+- **Kompiuterio failų keliuose**: (C:\Mano dokumentai\vrmrastas13.doc)
+- **DOS / Windows keliuose**: (C:\Žodynas\žodis.html)
 
 ### Du pasvirieji brūkšniai (//):
 
-- **Posmų ribos citatuose** – (// žymimoji eilutė)
-- **Interneto adresai** – (http://www.lki.lt, https://www.vle.lt)
+- **Posmų ribos citatuose**: (// žymimoji eilutė)
+- **Interneto adresai**: (http://www.lki.lt, https://www.vle.lt)
 
 ---
 
 ## Skliaustai ()
 
-- **Sangrąžos dalelytės** – mokymas(is), sukimas(is), varžymas(is)
-- **Baigmenys** – pasauly(je), namuos(e), sąlygom(is), rašom(e)
-- **Jungiamieji balsiai** – balt(a)žiedis, devyn(ia)ženklis, pup(a)laiškis
-- **Fonetinis variantas** – reik(ė)tų
-- **Stilistinė dviprasmybė** – aplinkos (ne)tvarkymą
-- **Gretutinės formos** – pilietis (-ė), darbuotojas (-a), gerbiamieji (-osios)
-- **Alternatyva rišliame tekste** – skyriaus vedėjas (pavaduotojas)
+- **Sangrąžos dalelytės**: mokymas(is), sukimas(is), varžymas(is)
+- **Baigmenys**: pasauly(je), namuos(e), sąlygom(is), rašom(e)
+- **Jungiamieji balsiai**: balt(a)žiedis, devyn(ia)ženklis, pup(a)laiškis
+- **Fonetinis variantas**: reik(ė)tų
+- **Stilistinė dviprasmybė**: aplinkos (ne)tvarkymą
+- **Gretutinės formos**: pilietis (-ė), darbuotojas (-a), gerbiamieji (-osios)
+- **Alternatyva rišliame tekste**: skyriaus vedėjas (pavaduotojas)
 
-**Išimtis:** Alternatyva žodžiams su didžiosiomis rašėmis – kartoti visą žodį: Jo (Jos) Ekscelencija, ne Jo(s) Ekscelencija.
+**Išimtis:** Alternatyva žodžiams su didžiosiomis raidėmis: kartoti visą žodį: Jo (Jos) Ekscelencija, ne Jo(s) Ekscelencija.
 
 ---
 
 ## Kabutės „ “
 
-- **Simboliniai pavadinimai** – choras „Gabija“, sviestas „Saulutė“
-- **Įstaigų / organizacijų pavadinimai** – asociacija „Gyvastis“, leidykla „Baltos lankos“
-- **Statiniai** – „Švyturio“ arena, „Utenio“ stadionas
-- **Apdovanojimai** – ordinas „Už nuopelnus Lietuvai“
-- **Renginiai** – paskaita „Elektronikos spindesys ir skurdas“, festivalis „Kino pavasaris“
-- **Kūriniai** – simfoninė poema „Miške“
-- **Antraštiniai dokumentai** – dekretas „Dėl Lietuvos Respublikos pilietybės suteikimo“
-- **Spektakliai / filmai / laidos** – spektaklis „Kai mirę nubusim“, laida „Kultūros savaitė“
-- **Leidiniai** – laikraštis „Literatūra ir menas“, novelė „Užburtos jachtos“
-- **Žodžiai apie kuriuos kalbama** – portalo skaitytojai išrinko žodį „ačiū“
+- **Simboliniai pavadinimai**: choras „Gabija“, sviestas „Saulutė“
+- **Įstaigų / organizacijų pavadinimai**: asociacija „Gyvastis“, leidykla „Baltos lankos“
+- **Statiniai**: „Švyturio“ arena, „Utenio“ stadionas
+- **Apdovanojimai**: ordinas „Už nuopelnus Lietuvai“
+- **Renginiai**: paskaita „Elektronikos spindesys ir skurdas“, festivalis „Kino pavasaris“
+- **Kūriniai**: simfoninė poema „Miške“
+- **Antraštiniai dokumentai**: dekretas „Dėl Lietuvos Respublikos pilietybės suteikimo“
+- **Spektakliai / filmai / laidos**: spektaklis „Kai mirę nubusim“, laida „Kultūros savaitė“
+- **Leidiniai**: laikraštis „Literatūra ir menas“, novelė „Užburtos jachtos“
+- **Žodžiai apie kuriuos kalbama**: portalo skaitytojai išrinko žodį „ačiū“
 
 **Išimtis:** Pavadinimo pabaiga gali būti kita eilutė: festivalis „Skamba skamba kankliai / 2019“.
 
 ### Viengubos kabutės (ʻ ʼ) arba (‚ ');
 
-- **Kultūrinių augalų veislės** – slyvų veislė 'Vengrinė', obelų veislė 'Auksis'
-- **Žodžių reikšmės kalbotyros tekstuose** – žodis „gėlė“ apibrėžiamas taip: 'gražiai žydintis augalas'
+- **Kultūrinių augalų veislės**: slyvų veislė 'Vengrinė', obelų veislė 'Auksis'
+- **Žodžių reikšmės kalbotyros tekstuose**: žodis „gėlė“ apibrėžiamas taip: 'gražiai žydintis augalas'
 
 ---
 
 ## Skaičiai
 
-- **Nedideli skaičiai meniniame tekste** – žodžiais (Praėjo treji metai)
-- **Dalykiniuose tekstuose** – skaitmenimis (2 lentelė, 5 pav., 4 lapai)
-- **Data / laikas** – XI amžius, 2017 m. sausio 15 d., 10 val. 25 min.
-- **Tikslumo reikalaujantys tekstai** – 5 (penkių) narių komisija; 2 350 (du tūkstančiai trys šimtai penkiasdešimt) eurų
+- **Nedideli skaičiai meniniame tekste**: žodžiais (Praėjo treji metai)
+- **Dalykiniuose tekstuose**: skaitmenimis (2 lentelė, 5 pav., 4 lapai)
+- **Data / laikas**: XI amžius, 2017 m. sausio 15 d., 10 val. 25 min.
+- **Tikslumo reikalaujantys tekstai**: 5 (penkių) narių komisija; 2 350 (du tūkstančiai trys šimtai penkiasdešimt) eurų
 
 ### Skaičiai prieš daiktavardį (kiekis):
 
-- **Prieš daiktavardį** – 15 kompiuterių, 45 knygos, 20 m., 400 egz.
+- **Prieš daiktavardį**: 15 kompiuterių, 45 knygos, 20 m., 400 egz.
 
 ### Skaičiai žymi eilę:
 
-- **Dažnai arabiškais** – 5 klasė, 4 pavyzdys, 2017 metai
-- **Dažnai romėniškais** – XXI amžius, IV ketvirtis, III tomas
+- **Dažnai arabiškais**: 5 klasė, 4 pavyzdys, 2017 metai
+- **Dažnai romėniškais**: XXI amžius, IV ketvirtis, III tomas
 
 **Išimtys:**
-- Kaimų pavadinimuose ir asmenų prievardžiuose – Burbiškės II, Elžbieta II, Karolis IX
-- Cheminių oksidacijos laipsnių – geležies(III) oksidas, vario(I) bromidas
+- Kaimų pavadinimuose ir asmenų prievardžiuose: Burbiškės II, Elžbieta II, Karolis IX
+- Cheminių oksidacijos laipsniai: geležies(III) oksidas, vario(I) bromidas
 
 ### Kelintiniai su arabiškais skaitmenimis:
 
-- **Pridedama po brūkšnelio** – 6-a kategorija, 8-asis pulkas, vasario 16-oji, 5-oji simfonija
-- **Su kamiengalio minkštumo ženklu** – 3-iasis, 4-ios rungtynės
+- **Pridedama po brūkšnelio**: 6-a kategorija, 8-asis pulkas, vasario 16-oji, 5-oji simfonija
+- **Su kamiengalio minkštumo ženklu**: 3-iasis, 4-ios rungtynės
 
 ### Sudėtiniai numeriai:
 
-- **Skiriami tašku** – 1.2 dalis, 3.5 skyrius, 8.15 lentelė
+- **Skiriami tašku**: 1.2 dalis, 3.5 skyrius, 8.15 lentelė
 - **Po paskutinio skaitmens taškas nededamas**, jei toliau eina žodis
 
 ### Dideli skaičiai:
 
-- **Skaitmenų grupės skiriamos tarpais** – 12 325; 23 524 328; 1 000 000 000
-- **Neskiriami taškais/kableliais** – galima: 25 tūkst., 3 mln. 500 tūkst., 5 350 300
+- **Skaitmenų grupės skiriamos tarpais**: 12 325; 23 524 328; 1 000 000 000
+- **Neskiriami taškais/kableliais**: galima rašyti 25 tūkst., 3 mln. 500 tūkst., 5 350 300
 
 ### Dešimtainės trupmenos:
 
-- **Skiriamos kableliu** – 0,21; 0,001; 12,021; 325 412,221221
+- **Skiriamos kableliu**: 0,21; 0,001; 12,021; 325 412,221221
 
 ---
 
 ## Pinigų sumos
 
-- **Šimtosios dalys** – 5,00 Eur; 5,08 Eur; 0,25 Eur (be tarpo po kablelio)
-- **Su santrumpomis** – 5 Eur; 5 Eur 8 ct; 10 Eur 59 ct; 25 ct
+- **Šimtosios dalys**: 5,00 Eur; 5,08 Eur; 0,25 Eur (be tarpo po kablelio)
+- **Su santrumpomis**: 5 Eur; 5 Eur 8 ct; 10 Eur 59 ct; 25 ct
 
 ---
 
@@ -228,20 +228,20 @@ Lietuvių kalbos rašyboje vartojamas pasvirasis dešininis brūkšnys (/), pasv
 
 ### Skaitmeninė data:
 
-- **Dokumentuose** – 2018-01-15, 2020-02-02 (brūkšneliai be tarpų)
-- **Moksliniuose / laisvesniuose** – 2018 01 15 arba 2018.01.05
+- **Dokumentuose**: 2018-01-15, 2020-02-02 (brūkšneliai be tarpų)
+- **Moksliniuose / laisvesniuose**: 2018 01 15 arba 2018.01.05
 - **Data į kitą eilutę nekeliama**
 
 ### Mišrioji data:
 
-- **Rašoma: metai + m. + mėnuo kilmininku + diena + d.** – 2018 m. rugpjūčio 6 d.
-- **Tarp skaitmenų ir santrumpų m./d. – tarpai** – 2018 m. balandžia 19 d., ne 2018m. balandžia 19d.
-- **Mėnesiui rašant žodžiu, santrumpa m. nereikalinga** – 2018 m. liepos 20 d.
+- **Rašoma: metai + m. + mėnuo kilmininku + diena + d.**: 2018 m. rugpjūčio 6 d.
+- **Tarp skaitmenų ir santrumpų m., d. rašomi tarpai**: 2018 m. balandžio 19 d., ne 2018m. balandžio 19d.
+- **Mėnesiui rašant žodžiu, santrumpa m. nereikalinga**: 2018 m. liepos 20 d.
 
 ### Laikas:
 
-- **Valandos ir minutės po taško** – 9.00 val.; 11.30 val.; 15.05 val.
-- **Su santrumpomis** – 9 val. 5 min.; 12 val. 30 min. 45 sek.
-- **Pagal tarptautinį standartą – dvitaškis** – 10:10; 20:45:55
-- **Specialiuose tekstuose** – 4,50 val. (= 4 val. 30 min.)
-- **Moksliniuose** – 5 h 37 min.
+- **Valandos ir minutės po taško**: 9.00 val.; 11.30 val.; 15.05 val.
+- **Su santrumpomis**: 9 val. 5 min.; 12 val. 30 min. 45 sek.
+- **Pagal tarptautinį standartą rašomas dvitaškis**: 10:10; 20:45:55
+- **Specialiuose tekstuose**: 4,50 val. (= 4 val. 30 min.)
+- **Moksliniuose**: 5 h 37 min.

@@ -10,7 +10,7 @@ are in Lithuanian, because the rules and their terms are Lithuanian and match th
 
 Dirbtinio intelekto agentams skirtas įgūdis lietuviškam tekstui rašyti ir taisyti: rašyba, kableliai ir
 kita skyryba, didžiosios raidės, skaičių ir datų rašymas, svetimvardžiai, pažodžiui išversti posakiai (kalkės) ir dažnos klaidos,
-o paprašius – ir kirčiavimas.
+o paprašius ir kirčiavimas.
 
 Taisyklės sutrauktos iš oficialių Valstybinės lietuvių kalbos komisijos (VLKK) normų. Šalia sutrauktų
 taisyklių pateikiamas ir visas oficialus tekstas, todėl agentas keblų atvejį gali pasitikrinti, o ne
@@ -21,7 +21,7 @@ spėlioti.
 ```
 skills/lithuanian-writing/
 ├── SKILL.md                  # pradžios taškas: rodyklė, dažniausios klaidos, apimtis
-├── references/               # sutrauktos taisyklės, viena tema – vienas failas; įkeliama tik tai, ko reikia
+├── references/               # sutrauktos taisyklės, kiekvienai temai atskiras failas; įkeliama tik tai, ko reikia
 │   ├── rasyba-balsiai-priebalsiai.md   # i / y, u / ū, nosinės, priebalsiai
 │   ├── kartu-atskirai.md               # sudurtiniai žodžiai, kartu ar atskirai, ne-
 │   ├── didziosios-raides.md            # didžiosios raidės, tikriniai vardai
@@ -36,7 +36,7 @@ skills/lithuanian-writing/
     └── klaidu-sarasas/                 # didžiųjų kalbos klaidų sąrašas, 9 sritys
 ```
 
-Iš kur paimta medžiaga, taip pat žodynai ir įrankiai – [SOURCES.md](SOURCES.md).
+Iš kur paimta medžiaga, taip pat žodynai ir įrankiai: [SOURCES.md](SOURCES.md).
 
 ### Diegimas
 
@@ -56,7 +56,7 @@ Markdown failai, nepritaikyti kuriam nors vienam agentui.
 
 ### Principai
 
-- **Rodyklė, ne visas sąvadas.** `SKILL.md` – tik turinys. Agentas vienam tekstui įkelia vieną ar du
+- **Rodyklė, ne visas sąvadas.** `SKILL.md` yra tik turinys. Agentas vienam tekstui įkelia vieną ar du
   failus, o ne visas ~1 500 eilučių.
 - **Pasirenkamas ženklas nėra klaida.** Pagal 2019 m. skyrybos taisykles daug kablelių yra pasirenkami, ir
   bet kuris leidžiamas variantas laikomas taisyklingu. Kablelių faile kiekvienas atvejis pažymėtas:
@@ -66,7 +66,7 @@ Markdown failai, nepritaikyti kuriam nors vienam agentui.
 
 ### Licencija
 
-Įgūdžio tekstas (`SKILL.md`, `references/`) platinamas pagal MIT licenciją. Aplanke `sources/` – oficialūs
+Įgūdžio tekstas (`SKILL.md`, `references/`) platinamas pagal MIT licenciją. Aplanke `sources/` yra oficialūs
 norminiai VLKK tekstai, kurie pagal Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
 5 straipsnį nėra autorių teisių objektas. Jie pateikti nekeisti, nurodant šaltinio adresą.
 

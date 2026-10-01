@@ -1,11 +1,11 @@
 ---
 name: lithuanian-writing
 description: |
-  Taisyklinga ir natūrali lietuvių kalba: rašymas, vertimas į lietuvių kalbą ir teksto taisymas –
+  Taisyklinga ir natūrali lietuvių kalba: rašymas, vertimas į lietuvių kalbą ir teksto taisymas:
   rašyba, skyryba (kableliai), didžiosios raidės, skaičių, datų ir kabučių rašymas, svetimvardžiai,
-  dažnos klaidos ir kalkės, kirčiavimas (tik paprašius).
+  dažnos klaidos ir pažodžiui išversti posakiai (kalkės), kirčiavimas (tik paprašius).
   Write correct, natural Lithuanian and check Lithuanian prose for errors. Use whenever writing,
-  editing, translating into, or proofreading Lithuanian text — orthography (rašyba), comma placement
+  editing, translating into, or proofreading Lithuanian text: orthography (rašyba), comma placement
   and sentence punctuation (skyryba), capitalisation, number/date/quote formatting, foreign names,
   common mistakes and calques (įtakoti, apjungti, English word order), and accentuation (kirčiavimas)
   rules on request. Acts as a router: load only the reference file(s) relevant to the current text, not
@@ -20,13 +20,13 @@ metadata:
 # Lithuanian writing: correctness + natural style
 
 Write Lithuanian that a careful native editor would pass. This skill is an **index**: the rules live in
-`references/`, and you load only the file the current text needs — do not pull them all into context.
+`references/`, and you load only the file the current text needs; do not pull them all into context.
 
 ## How to use
 
 1. **Writing/translating into Lithuanian.** Draft normally, then run the relevant checks below. If the
    text was translated from English, `references/daznos-klaidos.md` and `references/humanizavimas-lt.md`
-   matter most — that is where translation calques and English word order show up.
+   matter most, because that is where translation calques and English word order show up.
 2. **Proofreading Lithuanian.** Identify what kinds of tokens the text contains (proper names? numbers
    and dates? quotes? compound words?) and load only the matching reference(s).
 3. **Cite the rule when correcting.** Say which rule applies (e.g. „nosinė, nes kilmininko galūnė“) so the
@@ -50,7 +50,7 @@ Write Lithuanian that a careful native editor would pass. This skill is an **ind
 
 ## The six things AI/translated Lithuanian gets wrong most
 
-Check these first — they cover the bulk of real errors (details in the references):
+Check these first. They cover the bulk of real errors (details in the references):
 
 1. **Straight quotes and wrong dashes.** Lithuanian uses „…“ (not "…"), and – (brūkšnys) with spaces,
    not the English em-dash. → `skyrybos-zenklai.md`
@@ -71,7 +71,7 @@ Check these first — they cover the bulk of real errors (details in the referen
 This skill covers **rašyba** (orthography), **skyryba** (commas and sentence punctuation), graphic signs,
 capitalisation, common lexical/grammar errors, and basic **kirčiavimas**.
 
-**Optional punctuation is not an error.** The 2019 rules mark many commas as optional — `(,)` — and state
+**Optional punctuation is not an error.** The 2019 rules mark many commas as optional, written `(,)`, and state
 that any permitted variant is correct. When proofreading, correct only mandatory cases; offer optional
 ones as style suggestions at most. `references/skyryba-kableliai.md` marks each case ✔/◐/✘.
 

@@ -5,7 +5,7 @@ rusų kalbos** arba parašytame kalbos modelio. Oficialus *Didžiųjų kalbos kl
 sausio 31 d. nebetaikomas baudoms skirti, bet kiekvieną toliau nurodytą klaidą geras redaktorius vis tiek
 taiso: baudų nebėra, o klaida lieka klaida.
 
-## Leksika – kalkės ir svetimybės
+## Leksika: kalkės ir svetimybės
 
 | Klaida | Taisyklinga |
 |--------|-------------|
@@ -21,11 +21,11 @@ taiso: baudų nebėra, o klaida lieka klaida.
 | ružavas | **rožinis, rausvas** |
 | įsisavinti (lėšas) | **panaudoti** (lėšas); **perprasti, išmokti** (žinias) |
 | skaitau (= manau) | **manau** |
-| pravesti (laidus; liniją) | **nutiesti, įvesti; išvesti, nubrėžti** (*pravesti renginį* sąraše nėra – stiliaus dalykas: geriau **surengti, vesti**) |
+| pravesti (laidus; liniją) | **nutiesti, įvesti; išvesti, nubrėžti** (*pravesti renginį* sąraše nėra, tai stiliaus dalykas; geriau **surengti, vesti**) |
 | atatinkamai | **atitinkamai** (rašybos klaida) |
 | kokybiškas darbas | dažnai geriau **geros kokybės, kruopštus** |
 
-*Sąlygoti* reikšme „lemti, sukelti“ vertinamas nevienodai – geriau **lemti, sukelti, nulemti**.
+*Sąlygoti* reikšme „lemti, sukelti“ vertinamas nevienodai, todėl geriau **lemti, sukelti, nulemti**.
 
 ## Linksniai ir prielinksniai
 
@@ -44,8 +44,8 @@ taiso: baudų nebėra, o klaida lieka klaida.
 | daugumoje (atvejų sergama…) | **daugiausia, dažniausiai, paprastai** |
 | eilę metų / eilė klausimų | **daug (metų), nemažai (klausimų)** |
 | dėka (nelaimės dėka) | **dėl** (dėka tik teigiama prasme: draugų dėka) |
-| atsirado nesutarimai / yra pienas? | **nesutarimų / pieno** – neapibrėžtas kiekis → dalies kilmininkas |
-| Birutė, jus kviečia | **Birute** – kreipinys šauksmininku |
+| atsirado nesutarimai / yra pienas? | **nesutarimų / pieno** (neapibrėžtas kiekis → dalies kilmininkas) |
+| Birutė, jus kviečia | **Birute** (kreipinys šauksmininku) |
 | prieiti išvados | **prieiti išvadą, prie išvados** |
 | siekia dviejų metrų | **siekia du metrus** |
 | atitinka originalui | **atitinka originalą** |
@@ -64,15 +64,15 @@ taiso: baudų nebėra, o klaida lieka klaida.
   silkė**, ~~sriuba grybų~~ → **grybų sriuba**.
 - **Pasyvo perteklius.** Verstinis lietuviškas tekstas linksta į beasmenes/pasyviąsias konstrukcijas
   („buvo nuspręsta, yra atliekama“). Rink **veiksmažodinę, aktyviąją** formą: „nusprendėme“, „atliekame“.
-- **Nominalizacijos.** Nevynk daiktavardžių virtinės („sprendimo priėmimo proceso optimizavimas“) – versk
+- **Nominalizacijos.** Nevynk daiktavardžių virtinės („sprendimo priėmimo proceso optimizavimas“), versk
   veiksmažodžiu („kaip greičiau priimti sprendimus“).
 - **Perteklinis „tai“.** „Šis klausimas – tai svarbus dalykas“ → „Šis klausimas svarbus“.
 
 ## Visas oficialus sąrašas
 
-Ši lentelė – tik dažniausi atvejai. Visas VLKK sąrašas (~800 eilučių, 9 kategorijos) yra
+Šioje lentelėje tik dažniausi atvejai. Visas VLKK sąrašas (~800 eilučių, 9 kategorijos) yra
 `sources/klaidu-sarasas/`. Abejojant dėl žodžio ar konstrukcijos: `grep -i "žodis" sources/klaidu-sarasas/*.md`.
-Jei rasta – tai oficiali klaida, cituok punktą (pvz. „1.4.5“). Jei nerasta – tai gali būti tik stiliaus
+Jei rasta, tai oficiali klaida: cituok punktą (pvz., „1.4.5“). Jei nerasta, tai gali būti tik stiliaus
 pastaba, taip ir pažymėk.
 
 ## Kaip taisyti

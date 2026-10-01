@@ -2,7 +2,7 @@
 
 Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §2–§3. Pagrindinės rašybos taisyklės: i / y, u / ū, e / (i)a,
 nosinės **ą ę į ų** ir priebalsiai (supanašėjimas, minkštumas, j). Kalbos modeliui tai **kontrolinis
-sąrašas** – didžiąją dalį jau žinai; naudok jį keblesniems atvejams (nosinė ar paprastas balsis, i ar y
+sąrašas**: didžiąją dalį jau žinai, naudok jį keblesniems atvejams (nosinė ar paprastas balsis, i ar y
 galūnėse).
 
 **Greita orientacija:**

@@ -5,9 +5,9 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 
 **Greita orientacija:**
 - **ne-** su veiksmažodžiais, daiktavardžiais, būdvardžiais, prieveiksmiais rašomas **kartu**: nedirba,
-  negalima, nemažai, negera. **Atskirai** – kai gretinama/priešpriešinama („ne dirba, o ilsisi“) ir su
+  negalima, nemažai, negera. **Atskirai**, kai gretinama/priešpriešinama („ne dirba, o ilsisi“) ir su
   asmenuojamosiomis *nėra/ne* prieš kitą žodį pagal reikšmę.
-- **Neiginys prie skaitvardžių, įvardžių, dalelyčių** – dažnai **atskirai**: ne du, ne visi, ne tik.
+- **Neiginys prie skaitvardžių, įvardžių, dalelyčių**: dažnai rašomas **atskirai**, pvz., ne du, ne visi, ne tik.
 
 ---
 
@@ -21,11 +21,11 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 
 3. **Po minkštųjų priebalsių vietoj `ė` rašoma `ia`.** Po minkštųjų priebalsių (k, g, š, ž, č, dz, dž) tarp dėmenų rašoma **(i)a**, o ne `ė` (angliakasys, kraujagyslė, piliakalnis, stačiakampis, žaliavalgis, trečiadienis).
 
-   Išimtis: bendrinėje kalboje nebūtina rašyti `ė` – leidžiami variantai ir su `a` be `i` (pvz., `baltakaktis` leidžiama vietoj `baltkaktis`).
+   Išimtis: bendrinėje kalboje nebūtina rašyti `ė`: leidžiami variantai ir su `a` be `i` (pvz., `baltakaktis` leidžiama vietoj `baltkaktis`).
 
-4. **Jungiamoji balsė dažnai sutampa su pirmojo dėmens kamiengalio balse, bet ne visada.** Jei skiriasi – rašoma pagal tarimą (darbalaukis vs. darbymetis; galvospūdis vs. galvūgalis; nosikaulis vs. nosiaryklė).
+4. **Jungiamoji balsė dažnai sutampa su pirmojo dėmens kamiengalio balse, bet ne visada.** Jei skiriasi, rašoma pagal tarimą (darbalaukis vs. darbymetis; galvospūdis vs. galvūgalis; nosikaulis vs. nosiaryklė).
 
-5. **Galimi lygiagretūs variantai – su jungiamąja balse ar be jos.** Leidžiami abu variantai (baltkaktis ir baltakaktis, devynženklis ir devyniaženklis, vienragis ir vienaragis, voratinklis ir vortinklis).
+5. **Galimi lygiagretūs variantai su jungiamąja balse ir be jos.** Leidžiami abu variantai (baltkaktis ir baltakaktis, devynženklis ir devyniaženklis, vienragis ir vienaragis, voratinklis ir vortinklis).
 
 6. **`pusiau` kartu ar atskirai.** Kaip pirmasis dėmuo sudurtiniame žodyje rašomas **kartu** (pusiaudienis, pusiaunaktis, pusiausvyra). Kaip prieveiksmis rašomas **atskirai** (pusiau juodas, pusiau miegodamas, pusiau proza).
 
@@ -35,7 +35,7 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 
    Išimtis: kai kuriais atvejais išlaikomos ir balsės **i** arba **u** (pipirmedis < pipirų medis, viduržiemis < vidurys žiemos).
 
-9. **Sandūroje rašomos visos susidūrusios balsės ir priebalsės.** Niekada nemetamos – rašomos visos (baltaūsis, bendraamžis, daugiaaukštis, ilgaausis, pirmaeilis, keturratis, autooksidacija, mikroorganizmai, videooperatorius).
+9. **Sandūroje rašomos visos susidūrusios balsės ir priebalsės.** Niekada nemetamos, rašomos visos (baltaūsis, bendraamžis, daugiaaukštis, ilgaausis, pirmaeilis, keturratis, autooksidacija, mikroorganizmai, videooperatorius).
 
 
 ---
@@ -61,7 +61,7 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 - **Ne rašomas atskirai**, kai sakinyje prieštaraujama ar paneigiama: *Ne grožis žmogų puošia, o jo darbai.*
 - **Atskirai rašomi neiginiai, susiję su visu žodžių junginiu** (pvz.: *ne darbo metu*, *ne pelno organizacija*, *ne finansų bendrovė*).
 - **Ne rašomas atskirai** nuo aukštesniojo/aukščiausiojo laipsnio būdvardžių prieštaraujamajame lyginime (pvz.: *Jis ne prastesnis už kitus*).
-- **Išimtis:** kai lyginimas neišreikštas, ne rašyba priklauso nuo reikšmės – paneigimas → kartu (*negražesnį*), prieštaravimas → atskirai (*ne gražesnį*).
+- **Išimtis:** kai lyginimas neišreikštas, ne rašyba priklauso nuo reikšmės: paneigimas → kartu (*negražesnį*), prieštaravimas → atskirai (*ne gražesnį*).
 - **Ne visada atskirai** rašoma nuo:
   - įvardžių ir skaitvardžių (pvz.: *ne aš*, *ne tas*, *ne kiekvienas*),
   - sudurtinių/sudėtinių prieveiksmių (pvz.: *ne visada*, *ne visai*, *ne taip*, *ne ten*, *ne čia*),
@@ -114,7 +114,7 @@ rašomas neiginys *ne-* bei dalelytės (*be-, te-, nebe-, gi, si*).
 - **Kai kurie dėmenys visada kartu** (pvz.: *agro-*, *bio-*, *eko-*, *foto-*, *geo-*, *kripto-*, *neuro-*, *tele-*, *techno-*).
 - **Neskaidomi brūkšneliu** sudurtinių žodžių dėmenys (pvz.: *multivitaminai*, ne *multi-vitaminai*).
 - **Išimtis:** brūkšneliu skiriami dėmenys, kai reiškiami atskiri dalykai (pvz.: *makro- ir mikroelementai*, *audio- ir videokonferencijos*).
-- **Išimtis:** kai kurie dėmenys kaip savarankiški žodžiai rašomi atskirai, o sudurtiniuose – kartu (pvz.: *euras* bet *euro zona*; *elektros energija* bet *elektroakustika*; *mini sijonas* bet *minikompiuteris*).
+- **Išimtis:** kai kurie dėmenys kaip savarankiški žodžiai rašomi atskirai, o sudurtiniuose kartu (pvz.: *euras* bet *euro zona*; *elektros energija* bet *elektroakustika*; *mini sijonas* bet *minikompiuteris*).
 - **Savarankiški nekaitomi žodžiai** rašomi atskirai (pvz.: *alfa dalelė*, *beta karotenas*, *veto teisė*).
 
 ## 6. Žodžių kėlimas į kitą eilutę

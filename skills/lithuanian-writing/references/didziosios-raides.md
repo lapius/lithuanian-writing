@@ -1,19 +1,19 @@
 # Didžiosios raidės ir tikriniai vardai
 
 Iš *Lietuvių kalbos rašyba* (VLKK, 2022), §7–§8. Lietuviškai didžiųjų raidžių rašoma **gerokai mažiau**
-negu angliškai – tai ryškiausias verstinio teksto požymis.
+negu angliškai, ir tai ryškiausias verstinio teksto požymis.
 
-## MAŽĄJA raide (unlike English) – check these first
+## Mažąja raide (kitaip nei angliškai): tikrink pirmiausia
 
 - **Mėnesiai:** sausis, vasaris… (~~Sausis~~). „2022 m. **sausio** 5 d.“
 - **Savaitės dienos:** pirmadienis, antradienis… (~~Pirmadienį~~).
 - **Tautybės, gyventojų pavadinimai:** lietuvis, anglas, žydas (~~Lietuvis~~).
 - **Kalbos:** lietuvių kalba, anglų kalba (~~Anglų Kalba~~).
 - **Pareigos, profesijos** (paprastame tekste): direktorius, ministras, profesorius (didžioji tik pagarbiai
-  kreipiantis ar oficialiuose pareigūnų pavadinimuose – žr. žemiau).
-- **Antraštėse ir pavadinimuose – tik pirmasis žodis** iš didžiosios (+ tikriniai vardai viduje). Ne kaip
+  kreipiantis ar oficialiuose pareigūnų pavadinimuose, žr. žemiau).
+- **Antraštėse ir pavadinimuose tik pirmasis žodis** iš didžiosios (+ tikriniai vardai viduje). Ne kaip
   angliškas Title Case: „Rinkodaros skyrius“ (~~Rinkodaros Skyrius~~), knyga „Metų laikai“.
-- **Šventės, istoriniai laikotarpiai** – dažnai mažąja arba tik pirmasis žodis (renesansas, antikos laikai);
+- **Šventės, istoriniai laikotarpiai**: dažnai mažąja arba tik pirmasis žodis (renesansas, antikos laikai);
   pagarbiai teikiamos išimtys žemiau.
 
 ## IŠ DIDŽIOSIOS
@@ -41,7 +41,7 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 ## Religiniai pavadinimai
 
 - Svarbiausių kulto aktų, pagrindinių religinių apeigų, šventraščių pavadinimų visi žodžiai, kuriems suteikiama išskirtinė reikšmė, gali būti rašomi iš didžiosios raidės. (pvz.: *Švenčiausiasis Sakramentas, Eucharistija, Viešpaties Vakarienė; Komunija, Pirmoji Komunija, Mišios, Šventasis Raštas, Senasis Testamentas, Naujasis Testamentas*)
-- Pagrindinio sakramento pavadinimas *Švenčiausiasis Sakramentas* – abu žodžiai iš didžiosios raidės; kitų sakramentų pavadinimuose – tik pirmasis žodis. (pvz.: *Krikšto sakramentas*)
+- Pagrindinio sakramento pavadinimas *Švenčiausiasis Sakramentas* abu žodžiai rašomi iš didžiosios raidės, kitų sakramentų pavadinimuose tik pirmasis žodis. (pvz.: *Krikšto sakramentas*)
 - **Išimtis:** Religiniuose tekstuose žodis *bažnyčia* reikšme „religinė bendruomenė“ gali būti rašomas iš didžiosios raidės. (pvz.: *Katalikų Bažnyčia, Stačiatikių Bažnyčia, Bažnyčia*)
 
 ## Svarbūs dokumentai, organizacijos, judėjimai
@@ -91,7 +91,7 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 - **Asmenvardis su kabutėmis** rašomas tik kaip simbolinis pavadinimas. (pvz.: saldainiai „Rūta“, opera „Aida“)
 
-- **Daugiskaita** rašoma iš didžiosios raidės, kai žymimi keli tą patį vardą turintys asmenys. Išimtis: kai vardas vartojamas kaip stiliaus figūra apibendrinamąja reikšme – mažoji raidė. (pvz.: trys Kamilės; bet: augantys einšteinus, mocartus)
+- **Daugiskaita** rašoma iš didžiosios raidės, kai žymimi keli tą patį vardą turintys asmenys. Išimtis: kai vardas vartojamas kaip stiliaus figūra apibendrinamąja reikšme, rašoma mažoji raidė. (pvz.: trys Kamilės; bet: augantys einšteinus, mocartus)
 
 - **Asmenvardis perkeltine reikšme**, siejamas tik su vienu asmeniu, išlaiko didžiąją raidę. (pvz.: dainuoti Verdį, Maironį)
 
@@ -107,13 +107,13 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 - **Meninių kūrinių veikėjų vardai** rašomi iš didžiosios raidės. (pvz.: Auksaplaukė, Pelenė, Snieguolė, Mikė Pūkuotukas)
 
-- **Jei vardą sudaro keli žodžiai** – visi pradedami didžiąja raide. (pvz.: Lazdynų Pelėda, Šatrijos Ragana, Vytė Nemunėlis)
+- **Jei vardą sudaro keli žodžiai**: visi pradedami didžiąja raide. (pvz.: Lazdynų Pelėda, Šatrijos Ragana, Vytė Nemunėlis)
 
 - **Tarp pavardės ir slapyvardžio/pravardės** rašomas brūkšnelis. (pvz.: Ksaveras Sakalauskas-Vanagėlis)
 
 - **Slapyvardžiai, pravardės, sceniniai vardai nerašomi kabutėse.**
 
-- **Apibūdinimas prieš vardą** rašomas iš mažosios raidės; po vardo – irgi mažąja (jei dar nėra prievardis). (pvz.: gražusis Pilypas; bet: Pilypas Gražusis)
+- **Apibūdinimas prieš vardą** rašomas iš mažosios raidės; po vardo irgi mažąja (jei dar nėra prievardis). (pvz.: gražusis Pilypas; bet: Pilypas Gražusis)
 
 - **Daugiskaitos formos bendriniai pavadinimai** su žinomų asmenų vardais rašomi mažąja raide. (pvz.: čiurlioniukai, valančininkai, agurkiniai)
 
@@ -131,13 +131,13 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 - **Antriniai dievybių pavadinimai, prievardžiai** rašomi iš didžiosios raidės. (pvz.: Atpirkėjas, Aukščiausiasis, Visagalis)
 
-- **Santrumpa šv.** prieš šventojo vardą rašoma mažąja raide; Švč. – didžiąja. (pvz.: šv. Jonas, šv. Jurgis; bet: Švč. Mergelė Marija)
+- **Santrumpa šv.** prieš šventojo vardą rašoma mažąja raide, Švč. didžiąja. (pvz.: šv. Jonas, šv. Jurgis; bet: Švč. Mergelė Marija)
 
 ## Zodiako ženklai
 
 - **Zodiako ženklų pavadinimai** rašomi iš didžiosios raidės. (pvz.: Vėžys, Skorpionas, Žuvys)
 
-- **Daugiskaita**, kai vartojami keli to paties ženklo atstovai, – iš didžiosios raidės. (pvz.: Vyrai Liūtai)
+- **Daugiskaita**, kai vartojami keli to paties ženklo atstovai, rašoma iš didžiosios raidės. (pvz.: Vyrai Liūtai)
 
 - **„Žmogaus būdo“ reikšme** zodiakas rašomas mažąja raide. (pvz.: Koks tavo zodiakas?)
 
@@ -147,7 +147,7 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 - **Gyvūnų pavadinimai pagal ypatybes bendrine reikšme** rašomi mažąja raide. (pvz.: gražus rainis, Ieškom sargio)
 
-- **Tas pats žodis** gali būti ir mažąja, ir didžiąja raide – priklauso nuo to, ar tai vardas, ar ypatybės apibūdinimas. (pvz.: rainis / Rainis)
+- **Tas pats žodis** gali būti ir mažąja, ir didžiąja raide: tai priklauso nuo to, ar tai vardas, ar ypatybės apibūdinimas. (pvz.: rainis / Rainis)
 
 ## Astronominiai objektai
 
@@ -165,23 +165,23 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 ## Geografiniai objektai
 
-- **Tikriniuose pavadinimuose gimininiai žodžiai** rašomi mažąja raide; kiti žodžiai – didžiąja. (pvz.: Baltijos jūra, Nemunas, Trijų Kryžių kalnas, Platelių ežeras)
+- **Tikriniuose pavadinimuose gimininiai žodžiai** rašomi mažąja raide, kiti žodžiai didžiąja. (pvz.: Baltijos jūra, Nemunas, Trijų Kryžių kalnas, Platelių ežeras)
 
 - **Gimininiai žodžiai rašomi didžiąja raide**, kai nereiškia bendrinio pavadinimo, o vartojami kaip tikriniai žodžiai. (pvz.: Bajorų Kalvos, Karvės Ola, Akmens Jūra)
 
-- **Gimininis žodis keliažodžio pradžioje** ir būtinas struktūros elementas – didžiąja raide. (pvz.: Pušis su Koja)
+- **Gimininis žodis keliažodžio pradžioje** ir būtinas struktūros elementas, rašomas didžiąja raide. (pvz.: Pušis su Koja)
 
-- **Nebūtinas gimininis žodis prieš tikrinį vardą** – mažąja raide. (pvz.: aklaežeris Vokštelis, akmuo Valiulis)
+- **Nebūtinas gimininis žodis prieš tikrinį vardą**: mažąja raide. (pvz.: aklaežeris Vokštelis, akmuo Valiulis)
 
-- **Saulė, žemė, mėnulis** – žemės dirbimo, gamtos reiškinių kontekste mažąja raide. (pvz.: Danguje kaitino saulė)
+- **Saulė, žemė, mėnulis**: žemės dirbimo, gamtos reiškinių kontekste mažąja raide. (pvz.: Danguje kaitino saulė)
 
-- **Neapibrėžtos reikšmės vietovių pavadinimai** mažąja raide; vartojami kaip vietovardžiai – didžiąja. (pvz.: panerys; bet: Žemieji Paneriai)
+- **Neapibrėžtos reikšmės vietovių pavadinimai** mažąja raide; vartojami kaip vietovardžiai, didžiąja. (pvz.: panerys; bet: Žemieji Paneriai)
 
-- **Tikriniai vietovių vardai, virtę bendriniais** – mažąja raide. (pvz.: bostonas, kašmyras, šampanas, konjakas)
+- **Tikriniai vietovių vardai, virtę bendriniais**: mažąja raide. (pvz.: bostonas, kašmyras, šampanas, konjakas)
 
-- **Daugiskaitos forma apibendrinamąja reikšme** – mažąja raide. (pvz.: nemunėliai, dunojėliai, prahos, londonai)
+- **Daugiskaitos forma apibendrinamąja reikšme**: mažąja raide. (pvz.: nemunėliai, dunojėliai, prahos, londonai)
 
-- **Vietovių vardai perkeltine reikšme** – galima dvejopa rašyba. (pvz.: karaimų Meka / meka)
+- **Vietovių vardai perkeltine reikšme**: galima dvejopa rašyba. (pvz.: karaimų Meka / meka)
 
 - **Pastoviuosiuose žodžių junginiuose** galima dvejopa rašyba. (pvz.: peržengti Rubikoną / rubikoną)
 
@@ -205,13 +205,13 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 ## Topografiniai objektai (adreso dalys)
 
-- **Aikščių, gatvių, prospektų pavadinimai** – visi žodžiai iš didžiosios raidės, išskyrus gimininius ir tarnybinius. (pvz.: Laisvės alėja, Aušros Vartų gatvė, Vinco Kudirkos aikštė)
+- **Aikščių, gatvių, prospektų pavadinimai**: visi žodžiai iš didžiosios raidės, išskyrus gimininius ir tarnybinius. (pvz.: Laisvės alėja, Aušros Vartų gatvė, Vinco Kudirkos aikštė)
 
-- **Transporto stotelių pavadinimai** rašomi iš didžiosios raidės; gimininis žodis stotelė – mažąja. (pvz.: Žalgirio stotelė, Menų gimnazijos stotelė)
+- **Transporto stotelių pavadinimai** rašomi iš didžiosios raidės; gimininis žodis stotelė mažąja. (pvz.: Žalgirio stotelė, Menų gimnazijos stotelė)
 
 ## Parkai, draustiniai, rezervatai
 
-- **Pirmasis žodis ir kiti tikriniai žodžiai** – didžiąja raide; kiti sudaromieji žodžiai – mažosiomis. (pvz.: Trakų istorinis nacionalinis parkas, Nemuno kilpų regioninis parkas, Ąžuolų botaninis draustinis)
+- **Pirmasis žodis ir kiti tikriniai žodžiai**: didžiąja raide; kiti sudaromieji žodžiai mažosiomis. (pvz.: Trakų istorinis nacionalinis parkas, Nemuno kilpų regioninis parkas, Ąžuolų botaninis draustinis)
 
 ## Horizonto krypčių pavadinimai
 
@@ -226,7 +226,7 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 ## Tiesioginės reikšmės pavadinimai
 
-- Tiesioginės reikšmės pavadinimo **pirmasis žodis ir kiti tikriniai žodžiai rašomi iš didžiosios raidės**, bendriniai žodžiai – mažosiomis (pvz.: *Centrinė hipotekos įstaiga*, *Kauno miesto 2-asis notaro biuras*, *Taikomosios dailės muziejus*).
+- Tiesioginės reikšmės pavadinimo **pirmasis žodis ir kiti tikriniai žodžiai rašomi iš didžiosios raidės**, bendriniai žodžiai mažosiomis (pvz.: *Centrinė hipotekos įstaiga*, *Kauno miesto 2-asis notaro biuras*, *Taikomosios dailės muziejus*).
 
 - Aukščiausiųjų valstybinės valdžios institucijų ir aukščiausiųjų tarptautinių institucijų (JT, ET, ES) pavadinimų **visi žodžiai rašomi iš didžiosios raidės** (pvz.: *Lietuvos Respublikos Seimas*, *Europos Komisija*, *Jungtinių Tautų Organizacija*).
 
@@ -234,9 +234,9 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 - **Valdymo vienetų** pavadinimai (valdyba, taryba, direkcija ir pan.) rašomi **mažąja raide** (pvz.: *Kauno miesto savivaldybės taryba*, *Lietuvos banko valdyba*). Išimtis: dėl reikšmingumo galima pradėti didžiąja raide (pvz.: *Kauno miesto savivaldybės Taryba*).
 
-- Sutrumpintų pavadinimų pirmasis žodis rašomas iš didžiosios raidės, kiti žodžiai – kaip nesutrumpintame (pvz.: *Lietuvos Aukščiausiasis Teismas* → *Aukščiausiasis Teismas*, *Lietuvos Respublikos kultūros ministerija* → *Kultūros ministerija*).
+- Sutrumpintų pavadinimų pirmasis žodis rašomas iš didžiosios raidės, kiti žodžiai rašomi kaip nesutrumpintame (pvz.: *Lietuvos Aukščiausiasis Teismas* → *Aukščiausiasis Teismas*, *Lietuvos Respublikos kultūros ministerija* → *Kultūros ministerija*).
 
-- Oficialiojo stiliaus tekstuose pavadinimas, sutrumpintas iki vieno žodžio, rašomas iš didžiosios raidės (pvz.: *Seimas*, *Vyriausybė*, *Ministerija*). Išimtis: jei trumpinys vartojamas kaip bendrinis žodis – mažąja raide (pvz.: *laukiu atsakymo iš ministerijos*).
+- Oficialiojo stiliaus tekstuose pavadinimas, sutrumpintas iki vieno žodžio, rašomas iš didžiosios raidės (pvz.: *Seimas*, *Vyriausybė*, *Ministerija*). Išimtis: jei trumpinys vartojamas kaip bendrinis žodis, rašoma mažąja raide (pvz.: *laukiu atsakymo iš ministerijos*).
 
 ## Simboliniai pavadinimai
 
@@ -244,9 +244,9 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 - Tradicškai be kabučių ir iš didžiosios raidės rašomi simboliniai draugijų pavadinimai: **Raudonasis Kryžius**, **Raudonasis Pusmėnulis**, **Rotary klubas** (pvz.: *Raudonojo Kryžiaus ligoninė*).
 
-- Simbolinį pavadinimą turinčių institucijų **struktūrinių padalinių** pavadinimai rašomi iš didžiosios raidės, o prieš simbolinius padalinių pavadinimus (kabutėse) – mažąja raide (ne sakinio pradžioje) rašomas gimininis žodis (pvz.: *valstybės įmonės „Regitra“ Panevėžio filialas*, *AB „Lietuvos spauda“ Biržų skyrius*).
+- Simbolinį pavadinimą turinčių institucijų **struktūrinių padalinių** pavadinimai rašomi iš didžiosios raidės, o prieš simbolinius padalinių pavadinimus (kabutėse) mažąja raide (ne sakinio pradžioje) rašomas gimininis žodis (pvz.: *valstybės įmonės „Regitra“ Panevėžio filialas*, *AB „Lietuvos spauda“ Biržų skyrius*).
 
-- Bendriniai asmenų pavadinimai, kilę iš simbolinio pavadinimo, rašomi **mažąja raide ir be kabučių** (pvz.: chorų „Ąžuoliukas“, „Dagilėlis“ nariai – *ąžuoliukai*, *dagilėliai*).
+- Bendriniai asmenų pavadinimai, kilę iš simbolinio pavadinimo, rašomi **mažąja raide ir be kabučių** (pvz.: chorų „Ąžuoliukas“, „Dagilėlis“ nariai yra *ąžuoliukai*, *dagilėliai*).
 
 ## Mišrieji pavadinimai
 
@@ -258,7 +258,7 @@ negu angliškai – tai ryškiausias verstinio teksto požymis.
 
 - Teisinės formos pavadinimas (arba santrumpa) rašomas **mažąja raide** (ne sakinio pradžioje) ir paprastai **prieš** tikrinį pavadinimą (pvz.: *akcinė bendrovė Lietuvos paštas*, *AB Lietuvos paštas*, *VšĮ Centro poliklinika*).
 
-- Teisinės formos nuoroda gali būti rašoma ir **po pavadinimo** – tada išskiriama kableliais kaip priedėlis (pvz.: *Centro poliklinika, VšĮ*; *Medicinos bankas, AB*; *„Naujas žvilgsnis“, uždaroji akcinė bendrovė*).
+- Teisinės formos nuoroda gali būti rašoma ir **po pavadinimo**, tada ji išskiriama kableliais kaip priedėlis (pvz.: *Centro poliklinika, VšĮ*; *Medicinos bankas, AB*; *„Naujas žvilgsnis“, uždaroji akcinė bendrovė*).
 
 ## Vietovardis pavadinime
 
