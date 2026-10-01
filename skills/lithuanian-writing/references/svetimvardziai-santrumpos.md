@@ -14,7 +14,7 @@ smulkios išimtys. Retesniam svetimvardžiui tikrink VLKK konsultacijų banką.
 **Kurį būdą rinktis lemia teksto rūšis** (§9.2.1):
 - **laisvesni tekstai** (grožiniai, populiarūs, vaikams ir jaunimui) → **transkribuojama**: *Džeimsas Džoisas*;
 - **dalykiniai tekstai** (moksliniai, reklaminiai, informaciniai, oficialūs dokumentai) → **autentiški
-  asmenvardžiai** (*James Joyce'as*), o labiau paplitę vietovardžiai dažniausiai transkribuojami;
+  asmenvardžiai** (*Shakespeare'as*), o labiau paplitę vietovardžiai dažniausiai transkribuojami;
 - **tradicinės formos visada**: *Karolis Didysis, Elžbieta II, Paryžius, Varšuva, Krokuva*;
 - formas galima pateikti pagrečiui, vieną skliaustuose (kom.).
 
