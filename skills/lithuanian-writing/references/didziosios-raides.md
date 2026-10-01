@@ -13,8 +13,34 @@ negu angliškai, ir tai ryškiausias verstinio teksto požymis.
   kreipiantis ar oficialiuose pareigūnų pavadinimuose, žr. žemiau).
 - **Antraštėse ir pavadinimuose tik pirmasis žodis** iš didžiosios (+ tikriniai vardai viduje). Ne kaip
   angliškas Title Case: „Rinkodaros skyrius“ (~~Rinkodaros Skyrius~~), knyga „Metų laikai“.
-- **Šventės, istoriniai laikotarpiai**: dažnai mažąja arba tik pirmasis žodis (renesansas, antikos laikai);
-  pagarbiai teikiamos išimtys žemiau.
+- **Stiliai, laikotarpiai kaip terminai, religijos, bendriniai renginiai:** barokas, renesansas, akmens
+  amžius, kryžiaus karai, krikščionybė; konkursas, derliaus šventė, atvirų durų diena (§8.8.2, §8.9.3).
+  Bet **šventės iš didžiosios** (žr. žemiau).
+
+## Šventės, laikotarpiai, renginiai (§8.8–8.9)
+
+- **Švenčių vardų visi žodžiai iš didžiosios** (§8.8.3): Kalėdos, Kūčios, Joninės, Užgavėnės, Vėlinės;
+  **Naujieji Metai**, **Visi Šventieji**, **Trys Karaliai**, **Vasario 16-oji**, **Kovo 11-oji**.
+  Plg. *Naujieji Metai* (sausio 1-oji) ir *naujieji metai* (naujai prasidedantys metai).
+- **Šventės su gimininiu žodžiu: tik pirmasis žodis** (+ tikriniai) (§8.8.4): Motinos diena, Tėvo diena,
+  Valstybės diena, Lietuvos valstybės atkūrimo diena, Didysis penktadienis, Šv. Valentino diena.
+  *šv.* mažąja, kai neįeina į pavadinimą: *Laukiame šv. Kalėdų* (kom. 3*).
+- **Atmintinos dienos, metai: pirmasis žodis** (§8.8.6): Laisvės gynėjų diena, Tarptautinė teatro diena,
+  Kultūros paveldo metai.
+- **Religiniai laikotarpiai mažąja** (§8.8.5): adventas, gavėnia, ramadanas, šabas.
+- **Istoriniai įvykiai, epochos: pirmasis žodis** (§8.8.1): Antrasis pasaulinis karas, Žalgirio mūšis,
+  Liublino unija, Viduramžiai, Renesansas, Holokaustas. **Dvejopai** (kom. 1*, 2*): konkreti epocha ar
+  įvykis → didžioji (*Europoje Barokas tęsėsi…*, *prasidėjo Šaltasis karas*); stilius ar bendrinė reikšmė
+  → mažoji (*architektūroje barokas…*, *valstybėms kenkia šaltasis karas*).
+- **Renginiai** (§8.9.1–8.9.2): tiesioginės reikšmės pavadinimas be kabučių, pirmasis žodis iš didžiosios
+  (Kaziuko mugė, Pasaulio lietuvių dainų šventė); simbolinis kabutėse (festivalis „Kino pavasaris“).
+  Pridėjus metus pavadinimas tampa simboliniu: Vilniaus džiazo festivalis → „Vilniaus džiazo festivalis 2019“.
+  Skelbimuose bendrinio renginio pavadinimas gali būti iš didžiosios: *kviečiame į Paskutinio skambučio
+  šventę* (§8.9.3 kom.).
+- **Apdovanojimai** (§8.7): tiesioginės reikšmės pavadinimas be kabučių, pirmasis žodis ir tikriniai iš
+  didžiosios (Vytauto Didžiojo ordinas, Nobelio taikos premija, Sausio 13-osios atminimo medalis);
+  simbolinis kabutėse, gimininis žodis mažąja (ordinas „Už nuopelnus Lietuvai“). Gimininiai žodžiai
+  *ordinas, medalis, kryžius, premija* paprastai mažąja.
 
 ## IŠ DIDŽIOSIOS
 
