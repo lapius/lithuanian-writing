@@ -9,11 +9,11 @@ taiso: baudų nebėra, o klaida lieka klaida.
 
 | Klaida | Taisyklinga |
 |--------|-------------|
-| įtakoti | **veikti, paveikti, daryti įtaką, lemti** |
+| įtakoti (vertinamas nevienodai; vertinys pagal rus. *влиять*) | geriau **veikti, paveikti, lemti, formuoti, daryti / turėti įtaką** |
 | apjungti | **sujungti, suvienyti** (apjungti tik = aprėpti) |
-| taip vadinamas | **vadinamasis** |
+| taip vadinamas (pažyminys, priedėlis) | **vadinamasis**; bet tinka tariniu su aplinkybe: *„Uogos“ – taip vadinamas naujas romanas* |
 | sekantis (= kitas iš eilės) | **kitas, tolesnis, toliau einantis** (sekantis tik = sekantis iš paskos) |
-| pilnai | **visiškai, visai** |
+| pilnai (ten, kur netinka *pilnas*: *pilnai sutiko*) | **visiškai, visai** |
 | vienok | **tačiau, vis dėlto** |
 | neužilgo | **netrukus, greitai** |
 | pasekoje / pasekmėje | **dėl (to), dėl to** |
@@ -24,6 +24,10 @@ taiso: baudų nebėra, o klaida lieka klaida.
 | pravesti (laidus; liniją) | **nutiesti, įvesti; išvesti, nubrėžti** (*pravesti renginį* sąraše nėra, tai stiliaus dalykas; geriau **surengti, vesti**) |
 | atatinkamai | **atitinkamai** (rašybos klaida) |
 | kokybiškas darbas | dažnai geriau **geros kokybės, kruopštus** |
+| kaip taisyklė | **paprastai, dažniausiai** |
+| stovis (ligonio, pastato; dvasinis) | **būklė; būsena** |
+| sensorius | **jutiklis** |
+| aplikacija (kompiuterijoje) | **programa, taikomoji programa** |
 
 *Sąlygoti* reikšme „lemti, sukelti“ vertinamas nevienodai, todėl geriau **lemti, sukelti, nulemti**.
 
@@ -35,11 +39,13 @@ taiso: baudų nebėra, o klaida lieka klaida.
 | dviejų savaičių bėgyje | **per dvi savaites** |
 | laike pamokos | **per pamoką, pamokos metu** |
 | ant stoties / nuvažiavo ant stoties | **į stotį, stotyje** |
-| pas mane yra (knyga) | **aš turiu (knygą)** |
+| pas mane yra (knyga); pas ją gražūs plaukai; pas mane pakilo temperatūra | **aš turiu (knygą); jos plaukai; man pakilo** (nuosavybė, priklausymas, 4.6.1) |
+| pas save (neradau; viršininkas pas save) | **neradau; savo kabinete** (1.3.15) |
+| pirkau pas jį; kreiptis pas vedėją; sužinosiu pas draugę | **iš jo; į vedėją; iš draugės** (adresatas, šaltinis, 4.6.2). *Pas* tinka vietai prie asmens: *eiti pas draugą, būti pas gydytoją* |
 | kas liečia (šį klausimą) | **dėl (šio klausimo), kalbant apie** |
 | ryšyje su / sąryšyje su | **dėl, ryšium su**; *glaudžiame ryšyje* → **glaudžiai susiję** |
 | prie sąlygos | **su sąlyga** |
-| už tai (= todėl) | **todėl, dėl to** |
+| už tai (= todėl), rašoma atskirai | **užtai, užtat** (kartu) arba **todėl**; atskirai *už tai* tik savo reikšme: *dėkoju už tai, kad…* (Rašyba §5.1.3) |
 | pagal mane (= mano nuomone) | **mano manymu, mano nuomone** |
 | daugumoje (atvejų sergama…) | **daugiausia, dažniausiai, paprastai** |
 | eilę metų / eilė klausimų | **daug (metų), nemažai (klausimų)** |
@@ -53,7 +59,7 @@ taiso: baudų nebėra, o klaida lieka klaida.
 | panašus tėvui | **panašus į tėvą** |
 | prisitaikyti sąlygoms | **prisitaikyti prie sąlygų** |
 | šiai dienai įregistruota | **iki šios dienos** |
-| išėjo pietums / vyksta vizitui | **pietų, pietauti / su vizitu** |
+| išėjo pietums / vyksta vizitui / susirinko posėdžiui | **pietų, pietauti / su vizitu / į posėdį** (3.3.4) |
 | apsiėjo brangiai | **atsiėjo, kainavo** |
 | aptarnauti sąskaitą | **tvarkyti sąskaitą** |
 | atidaryti knygą / čiaupą / skėtį | **atversti / atsukti / išskleisti** |
