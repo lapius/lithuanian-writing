@@ -13,7 +13,7 @@ description: |
   also remove AI-writing tells.
 license: MIT
 metadata:
-  version: "1.2.0"
+  version: "1.3.0"
   sources: "Lietuvių kalbos rašyba (VLKK, 2022); Lietuvių kalbos skyrybos taisyklės (VLKK 2019, N-8 (178)); VLKK didžiųjų kalbos klaidų sąrašas; VDU tartis.vdu.lt"
 ---
 
@@ -29,9 +29,14 @@ Write Lithuanian that a careful native editor would pass. This skill is an **ind
    matter most, because that is where translation calques and English word order show up.
 2. **Proofreading Lithuanian.** Identify what kinds of tokens the text contains (proper names? numbers
    and dates? quotes? compound words?) and load only the matching reference(s).
-3. **Cite the rule when correcting.** Say which rule applies (e.g. „nosinė, nes kilmininko galūnė“) so the
-   correction is checkable, not a guess.
-4. **Kirčiavimas is a correctness rule, not a default.** Know the rules (`references/kirciavimas.md`) but
+3. **Grep the VLKK error list before any Lithuanian text goes out.** Every draft and every revision, not
+   only the first pass. For each preposition phrase, pronoun phrase and suspicious verb, run
+   `grep -i "<word>" sources/klaidu-sarasas/*.md`. The `references/` files are condensed and miss entries:
+   „pas save“ (1.3.15) and „pas mane“ (4.6.1) are only in `sources/`. Proofreading from memory does not
+   count as checking.
+4. **Cite the rule when correcting.** Say which rule applies (e.g. „nosinė, nes kilmininko galūnė“) so the
+   correction is checkable, not a guess. Cite only rules you actually opened this session.
+5. **Kirčiavimas is a correctness rule, not a default.** Know the rules (`references/kirciavimas.md`) but
    do **not** add stress marks to normal text unless the user asks (e.g. for TTS input or teaching).
 
 ## Which reference to load
