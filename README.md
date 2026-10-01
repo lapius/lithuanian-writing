@@ -9,7 +9,7 @@ are in Lithuanian, because the rules and their terms are Lithuanian and match th
 ## Lietuviškai
 
 Dirbtinio intelekto agentams skirtas įgūdis lietuviškam tekstui rašyti ir taisyti: rašyba, kableliai ir
-kita skyryba, didžiosios raidės, skaičių ir datų rašymas, svetimvardžiai, kalkės ir dažnos klaidos,
+kita skyryba, didžiosios raidės, skaičių ir datų rašymas, svetimvardžiai, pažodžiui išversti posakiai (kalkės) ir dažnos klaidos,
 o paprašius – ir kirčiavimas.
 
 Taisyklės sutrauktos iš oficialių Valstybinės lietuvių kalbos komisijos (VLKK) normų. Šalia sutrauktų
@@ -28,7 +28,7 @@ skills/lithuanian-writing/
 │   ├── skyrybos-zenklai.md             # brūkšniai, kabutės, skliaustai, skaičiai, datos, pinigai
 │   ├── skyryba-kableliai.md            # kableliai: šalutiniai sakiniai, aplinkybės, įterpiniai, tiesioginė kalba
 │   ├── svetimvardziai-santrumpos.md    # svetimvardžiai, santrumpos
-│   ├── daznos-klaidos.md               # kalkės, netinkami linksniai ir prielinksniai
+│   ├── daznos-klaidos.md               # pažodžiui išversti posakiai, netinkami linksniai ir prielinksniai
 │   ├── humanizavimas-lt.md             # verstinis ar DI tekstas → natūrali lietuvių kalba
 │   └── kirciavimas.md                  # kirčiavimas (tik paprašius)
 └── sources/                  # visi oficialūs VLKK tekstai paieškai
