@@ -13,7 +13,7 @@ description: |
   also remove AI-writing tells.
 license: MIT
 metadata:
-  version: "1.3.1"
+  version: "1.4.0"
   sources: "Lietuvių kalbos rašyba (VLKK, 2022); Lietuvių kalbos skyrybos taisyklės (VLKK 2019, N-8 (178)); VLKK didžiųjų kalbos klaidų sąrašas; VDU tartis.vdu.lt"
 ---
 
